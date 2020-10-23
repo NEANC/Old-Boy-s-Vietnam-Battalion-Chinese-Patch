@@ -1,0 +1,2901 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (01_vietnam valley)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/auto_heal_off"
+msgid "Turn Autoheal off"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/auto_heal_on"
+msgid "Turn Autoheal on"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/alpha_lc"
+msgid "Alpha Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/bravo_lc"
+msgid "Bravo Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/cancel"
+msgid "cancel"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/changecomd"
+msgid "Secure 1 Platoon, you're going to switch command to 2 Platoon when they land"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/charlie_lc"
+msgid "Charlie Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/civi_kill_1"
+msgid "Reports say Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/civi_kill_2"
+msgid "Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/comdfail"
+msgid "Stand Down, You have lost too many troops. Captain Spares is here to take over."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/contact"
+msgid "Contact!, Contact!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/d6_rc"
+msgid "All Call Signs, Radio Check"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/date"
+msgid "1969"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/firemission"
+msgid "Request Fire Mission"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/godmode"
+msgid "GOD MODE ON"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52"
+msgid "gr52"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520"
+msgid "gr520"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52077"
+msgid "gr52077"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520770"
+msgid "gr520770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520771"
+msgid "gr520771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520772"
+msgid "gr520772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520773"
+msgid "gr520773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520774"
+msgid "gr520774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520775"
+msgid "gr520775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520776"
+msgid "gr520776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520777"
+msgid "gr520777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520778"
+msgid "gr520778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520779"
+msgid "gr520779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52078"
+msgid "gr52078"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520780"
+msgid "gr520780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520781"
+msgid "gr520781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520782"
+msgid "gr520782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520783"
+msgid "gr520783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520784"
+msgid "gr520784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520785"
+msgid "gr520785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520786"
+msgid "gr520786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520787"
+msgid "gr520787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520788"
+msgid "gr520788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520789"
+msgid "gr520789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52079"
+msgid "gr52079"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520790"
+msgid "gr520790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520791"
+msgid "gr520791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520792"
+msgid "gr520792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520793"
+msgid "gr520793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520794"
+msgid "gr520794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520795"
+msgid "gr520795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520796"
+msgid "gr520796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520797"
+msgid "gr520797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520798"
+msgid "gr520798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr520799"
+msgid "gr520799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521"
+msgid "gr521"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52177"
+msgid "gr52177"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521770"
+msgid "gr521770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521771"
+msgid "gr521771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521772"
+msgid "gr521772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521773"
+msgid "gr521773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521774"
+msgid "gr521774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521775"
+msgid "gr521775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521776"
+msgid "gr521776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521777"
+msgid "gr521777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521778"
+msgid "gr521778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521779"
+msgid "gr521779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52178"
+msgid "gr52178"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521780"
+msgid "gr521780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521781"
+msgid "gr521781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521782"
+msgid "gr521782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521783"
+msgid "gr521783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521784"
+msgid "gr521784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521785"
+msgid "gr521785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521786"
+msgid "gr521786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521787"
+msgid "gr521787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521788"
+msgid "gr521788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521789"
+msgid "gr521789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52179"
+msgid "gr52179"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521790"
+msgid "gr521790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521791"
+msgid "gr521791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521792"
+msgid "gr521792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521793"
+msgid "gr521793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521794"
+msgid "gr521794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521795"
+msgid "gr521795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521796"
+msgid "gr521796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521797"
+msgid "gr521797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521798"
+msgid "gr521798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr521799"
+msgid "gr521799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522"
+msgid "gr522"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52277"
+msgid "gr52277"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522770"
+msgid "gr522770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522771"
+msgid "gr522771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522772"
+msgid "gr522772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522773"
+msgid "gr522773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522774"
+msgid "gr522774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522775"
+msgid "gr522775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522776"
+msgid "gr522776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522777"
+msgid "gr522777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522778"
+msgid "gr522778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522779"
+msgid "gr522779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52278"
+msgid "gr52278"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522780"
+msgid "gr522780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522781"
+msgid "gr522781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522782"
+msgid "gr522782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522783"
+msgid "gr522783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522784"
+msgid "gr522784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522785"
+msgid "gr522785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522786"
+msgid "gr522786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522787"
+msgid "gr522787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522788"
+msgid "gr522788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522789"
+msgid "gr522789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52279"
+msgid "gr52279"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522790"
+msgid "gr522790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522791"
+msgid "gr522791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522792"
+msgid "gr522792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522793"
+msgid "gr522793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522794"
+msgid "gr522794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522795"
+msgid "gr522795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522796"
+msgid "gr522796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522797"
+msgid "gr522797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522798"
+msgid "gr522798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr522799"
+msgid "gr522799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523"
+msgid "gr523"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52377"
+msgid "gr52377"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523770"
+msgid "gr523770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523771"
+msgid "gr523771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523772"
+msgid "gr523772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523773"
+msgid "gr523773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523774"
+msgid "gr523774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523775"
+msgid "gr523775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523776"
+msgid "gr523776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523777"
+msgid "gr523777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523778"
+msgid "gr523778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523779"
+msgid "gr523779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52378"
+msgid "gr52378"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523780"
+msgid "gr523780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523781"
+msgid "gr523781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523782"
+msgid "gr523782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523783"
+msgid "gr523783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523784"
+msgid "gr523784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523785"
+msgid "gr523785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523786"
+msgid "gr523786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523787"
+msgid "gr523787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523788"
+msgid "gr523788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523789"
+msgid "gr523789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52379"
+msgid "gr52379"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523790"
+msgid "gr523790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523791"
+msgid "gr523791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523792"
+msgid "gr523792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523793"
+msgid "gr523793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523794"
+msgid "gr523794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523795"
+msgid "gr523795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523796"
+msgid "gr523796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523797"
+msgid "gr523797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523798"
+msgid "gr523798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr523799"
+msgid "gr523799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524"
+msgid "gr524"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52477"
+msgid "gr52477"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524770"
+msgid "gr524770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524771"
+msgid "gr524771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524772"
+msgid "gr524772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524773"
+msgid "gr524773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524774"
+msgid "gr524774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524775"
+msgid "gr524775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524776"
+msgid "gr524776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524777"
+msgid "gr524777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524778"
+msgid "gr524778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524779"
+msgid "gr524779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52478"
+msgid "gr52478"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524780"
+msgid "gr524780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524781"
+msgid "gr524781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524782"
+msgid "gr524782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524783"
+msgid "gr524783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524784"
+msgid "gr524784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524785"
+msgid "gr524785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524786"
+msgid "gr524786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524787"
+msgid "gr524787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524788"
+msgid "gr524788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524789"
+msgid "gr524789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52479"
+msgid "gr52479"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524790"
+msgid "gr524790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524791"
+msgid "gr524791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524792"
+msgid "gr524792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524793"
+msgid "gr524793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524794"
+msgid "gr524794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524795"
+msgid "gr524795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524796"
+msgid "gr524796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524797"
+msgid "gr524797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524798"
+msgid "gr524798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr524799"
+msgid "gr524799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525"
+msgid "gr525"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52577"
+msgid "gr52577"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525770"
+msgid "gr525770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525771"
+msgid "gr525771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525772"
+msgid "gr525772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525773"
+msgid "gr525773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525774"
+msgid "gr525774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525775"
+msgid "gr525775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525776"
+msgid "gr525776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525777"
+msgid "gr525777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525778"
+msgid "gr525778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525779"
+msgid "gr525779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52578"
+msgid "gr52578"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525780"
+msgid "gr525780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525781"
+msgid "gr525781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525782"
+msgid "gr525782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525783"
+msgid "gr525783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525784"
+msgid "gr525784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525785"
+msgid "gr525785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525786"
+msgid "gr525786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525787"
+msgid "gr525787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525788"
+msgid "gr525788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525789"
+msgid "gr525789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52579"
+msgid "gr52579"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525790"
+msgid "gr525790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525791"
+msgid "gr525791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525792"
+msgid "gr525792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525793"
+msgid "gr525793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525794"
+msgid "gr525794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525795"
+msgid "gr525795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525796"
+msgid "gr525796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525797"
+msgid "gr525797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525798"
+msgid "gr525798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr525799"
+msgid "gr525799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526"
+msgid "gr526"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52677"
+msgid "gr52677"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526770"
+msgid "gr526770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526771"
+msgid "gr526771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526772"
+msgid "gr526772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526773"
+msgid "gr526773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526774"
+msgid "gr526774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526775"
+msgid "gr526775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526776"
+msgid "gr526776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526777"
+msgid "gr526777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526778"
+msgid "gr526778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526779"
+msgid "gr526779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52678"
+msgid "gr52678"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526780"
+msgid "gr526780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526781"
+msgid "gr526781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526782"
+msgid "gr526782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526783"
+msgid "gr526783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526784"
+msgid "gr526784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526785"
+msgid "gr526785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526786"
+msgid "gr526786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526787"
+msgid "gr526787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526788"
+msgid "gr526788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526789"
+msgid "gr526789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52679"
+msgid "gr52679"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526790"
+msgid "gr526790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526791"
+msgid "gr526791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526792"
+msgid "gr526792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526793"
+msgid "gr526793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526794"
+msgid "gr526794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526795"
+msgid "gr526795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526796"
+msgid "gr526796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526797"
+msgid "gr526797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526798"
+msgid "gr526798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr526799"
+msgid "gr526799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527"
+msgid "gr527"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52777"
+msgid "gr52777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527770"
+msgid "gr527770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527771"
+msgid "gr527771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527772"
+msgid "gr527772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527773"
+msgid "gr527773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527774"
+msgid "gr527774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527775"
+msgid "gr527775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527776"
+msgid "gr527776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527777"
+msgid "gr527777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527778"
+msgid "gr527778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527779"
+msgid "gr527779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52778"
+msgid "gr52778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527780"
+msgid "gr527780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527781"
+msgid "gr527781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527782"
+msgid "gr527782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527783"
+msgid "gr527783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527784"
+msgid "gr527784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527785"
+msgid "gr527785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527786"
+msgid "gr527786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527787"
+msgid "gr527787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527788"
+msgid "gr527788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527789"
+msgid "gr527789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52779"
+msgid "gr52779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527790"
+msgid "gr527790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527791"
+msgid "gr527791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527792"
+msgid "gr527792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527793"
+msgid "gr527793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527794"
+msgid "gr527794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527795"
+msgid "gr527795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527796"
+msgid "gr527796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527797"
+msgid "gr527797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527798"
+msgid "gr527798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr527799"
+msgid "gr527799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528"
+msgid "gr528"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52877"
+msgid "gr52877"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528770"
+msgid "gr528770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528771"
+msgid "gr528771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528772"
+msgid "gr528772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528773"
+msgid "gr528773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528774"
+msgid "gr528774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528775"
+msgid "gr528775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528776"
+msgid "gr528776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528777"
+msgid "gr528777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528778"
+msgid "gr528778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528779"
+msgid "gr528779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52878"
+msgid "gr52878"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528780"
+msgid "gr528780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528781"
+msgid "gr528781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528782"
+msgid "gr528782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528783"
+msgid "gr528783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528784"
+msgid "gr528784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528785"
+msgid "gr528785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528786"
+msgid "gr528786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528787"
+msgid "gr528787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528788"
+msgid "gr528788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528789"
+msgid "gr528789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52879"
+msgid "gr52879"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528790"
+msgid "gr528790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528791"
+msgid "gr528791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528792"
+msgid "gr528792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528793"
+msgid "gr528793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528794"
+msgid "gr528794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528795"
+msgid "gr528795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528796"
+msgid "gr528796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528797"
+msgid "gr528797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528798"
+msgid "gr528798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr528799"
+msgid "gr528799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529"
+msgid "gr529"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52977"
+msgid "gr52977"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529770"
+msgid "gr529770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529771"
+msgid "gr529771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529772"
+msgid "gr529772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529773"
+msgid "gr529773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529774"
+msgid "gr529774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529775"
+msgid "gr529775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529776"
+msgid "gr529776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529777"
+msgid "gr529777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529778"
+msgid "gr529778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529779"
+msgid "gr529779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52978"
+msgid "gr52978"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529780"
+msgid "gr529780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529781"
+msgid "gr529781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529782"
+msgid "gr529782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529783"
+msgid "gr529783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529784"
+msgid "gr529784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529785"
+msgid "gr529785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529786"
+msgid "gr529786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529787"
+msgid "gr529787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529788"
+msgid "gr529788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529789"
+msgid "gr529789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52979"
+msgid "gr52979"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529790"
+msgid "gr529790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529791"
+msgid "gr529791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529792"
+msgid "gr529792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529793"
+msgid "gr529793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529794"
+msgid "gr529794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529795"
+msgid "gr529795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529796"
+msgid "gr529796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529797"
+msgid "gr529797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529798"
+msgid "gr529798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr529799"
+msgid "gr529799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53"
+msgid "gr53"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530"
+msgid "gr530"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53077"
+msgid "gr53077"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530770"
+msgid "gr530770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530771"
+msgid "gr530771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530772"
+msgid "gr530772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530773"
+msgid "gr530773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530774"
+msgid "gr530774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530775"
+msgid "gr530775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530776"
+msgid "gr530776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530777"
+msgid "gr530777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530778"
+msgid "gr530778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530779"
+msgid "gr530779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53078"
+msgid "gr53078"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530780"
+msgid "gr530780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530781"
+msgid "gr530781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530782"
+msgid "gr530782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530783"
+msgid "gr530783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530784"
+msgid "gr530784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530785"
+msgid "gr530785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530786"
+msgid "gr530786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530787"
+msgid "gr530787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530788"
+msgid "gr530788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530789"
+msgid "gr530789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53079"
+msgid "gr53079"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530790"
+msgid "gr530790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530791"
+msgid "gr530791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530792"
+msgid "gr530792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530793"
+msgid "gr530793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530794"
+msgid "gr530794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530795"
+msgid "gr530795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530796"
+msgid "gr530796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530797"
+msgid "gr530797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530798"
+msgid "gr530798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr530799"
+msgid "gr530799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531"
+msgid "gr531"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53177"
+msgid "gr53177"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531770"
+msgid "gr531770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531771"
+msgid "gr531771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531772"
+msgid "gr531772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531773"
+msgid "gr531773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531774"
+msgid "gr531774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531775"
+msgid "gr531775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531776"
+msgid "gr531776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531777"
+msgid "gr531777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531778"
+msgid "gr531778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531779"
+msgid "gr531779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53178"
+msgid "gr53178"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531780"
+msgid "gr531780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531781"
+msgid "gr531781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531782"
+msgid "gr531782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531783"
+msgid "gr531783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531784"
+msgid "gr531784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531785"
+msgid "gr531785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531786"
+msgid "gr531786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531787"
+msgid "gr531787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531788"
+msgid "gr531788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531789"
+msgid "gr531789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53179"
+msgid "gr53179"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531790"
+msgid "gr531790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531791"
+msgid "gr531791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531792"
+msgid "gr531792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531793"
+msgid "gr531793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531794"
+msgid "gr531794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531795"
+msgid "gr531795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531796"
+msgid "gr531796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531797"
+msgid "gr531797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531798"
+msgid "gr531798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr531799"
+msgid "gr531799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532"
+msgid "gr532"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53277"
+msgid "gr53277"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532770"
+msgid "gr532770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532771"
+msgid "gr532771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532772"
+msgid "gr532772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532773"
+msgid "gr532773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532774"
+msgid "gr532774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532775"
+msgid "gr532775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532776"
+msgid "gr532776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532777"
+msgid "gr532777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532778"
+msgid "gr532778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532779"
+msgid "gr532779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53278"
+msgid "gr53278"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532780"
+msgid "gr532780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532781"
+msgid "gr532781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532782"
+msgid "gr532782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532783"
+msgid "gr532783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532784"
+msgid "gr532784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532785"
+msgid "gr532785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532786"
+msgid "gr532786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532787"
+msgid "gr532787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532788"
+msgid "gr532788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532789"
+msgid "gr532789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53279"
+msgid "gr53279"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532790"
+msgid "gr532790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532791"
+msgid "gr532791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532792"
+msgid "gr532792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532793"
+msgid "gr532793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532794"
+msgid "gr532794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532795"
+msgid "gr532795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532796"
+msgid "gr532796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532797"
+msgid "gr532797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532798"
+msgid "gr532798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr532799"
+msgid "gr532799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533"
+msgid "gr533"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53377"
+msgid "gr53377"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533770"
+msgid "gr533770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533771"
+msgid "gr533771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533772"
+msgid "gr533772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533773"
+msgid "gr533773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533774"
+msgid "gr533774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533775"
+msgid "gr533775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533776"
+msgid "gr533776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533777"
+msgid "gr533777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533778"
+msgid "gr533778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533779"
+msgid "gr533779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53378"
+msgid "gr53378"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533780"
+msgid "gr533780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533781"
+msgid "gr533781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533782"
+msgid "gr533782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533783"
+msgid "gr533783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533784"
+msgid "gr533784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533785"
+msgid "gr533785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533786"
+msgid "gr533786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533787"
+msgid "gr533787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533788"
+msgid "gr533788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533789"
+msgid "gr533789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53379"
+msgid "gr53379"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533790"
+msgid "gr533790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533791"
+msgid "gr533791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533792"
+msgid "gr533792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533793"
+msgid "gr533793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533794"
+msgid "gr533794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533795"
+msgid "gr533795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533796"
+msgid "gr533796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533797"
+msgid "gr533797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533798"
+msgid "gr533798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr533799"
+msgid "gr533799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534"
+msgid "gr534"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53477"
+msgid "gr53477"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534770"
+msgid "gr534770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534771"
+msgid "gr534771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534772"
+msgid "gr534772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534773"
+msgid "gr534773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534774"
+msgid "gr534774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534775"
+msgid "gr534775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534776"
+msgid "gr534776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534777"
+msgid "gr534777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534778"
+msgid "gr534778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534779"
+msgid "gr534779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53478"
+msgid "gr53478"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534780"
+msgid "gr534780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534781"
+msgid "gr534781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534782"
+msgid "gr534782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534783"
+msgid "gr534783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534784"
+msgid "gr534784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534785"
+msgid "gr534785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534786"
+msgid "gr534786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534787"
+msgid "gr534787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534788"
+msgid "gr534788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534789"
+msgid "gr534789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53479"
+msgid "gr53479"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534790"
+msgid "gr534790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534791"
+msgid "gr534791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534792"
+msgid "gr534792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534793"
+msgid "gr534793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534794"
+msgid "gr534794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534795"
+msgid "gr534795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534796"
+msgid "gr534796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534797"
+msgid "gr534797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534798"
+msgid "gr534798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr534799"
+msgid "gr534799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535"
+msgid "gr535"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53577"
+msgid "gr53577"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535770"
+msgid "gr535770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535771"
+msgid "gr535771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535772"
+msgid "gr535772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535773"
+msgid "gr535773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535774"
+msgid "gr535774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535775"
+msgid "gr535775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535776"
+msgid "gr535776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535777"
+msgid "gr535777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535778"
+msgid "gr535778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535779"
+msgid "gr535779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53578"
+msgid "gr53578"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535780"
+msgid "gr535780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535781"
+msgid "gr535781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535782"
+msgid "gr535782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535783"
+msgid "gr535783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535784"
+msgid "gr535784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535785"
+msgid "gr535785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535786"
+msgid "gr535786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535787"
+msgid "gr535787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535788"
+msgid "gr535788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535789"
+msgid "gr535789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53579"
+msgid "gr53579"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535790"
+msgid "gr535790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535791"
+msgid "gr535791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535792"
+msgid "gr535792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535793"
+msgid "gr535793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535794"
+msgid "gr535794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535795"
+msgid "gr535795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535796"
+msgid "gr535796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535797"
+msgid "gr535797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535798"
+msgid "gr535798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr535799"
+msgid "gr535799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536"
+msgid "gr536"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53677"
+msgid "gr53677"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536770"
+msgid "gr536770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536771"
+msgid "gr536771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536772"
+msgid "gr536772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536773"
+msgid "gr536773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536774"
+msgid "gr536774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536775"
+msgid "gr536775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536776"
+msgid "gr536776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536777"
+msgid "gr536777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536778"
+msgid "gr536778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536779"
+msgid "gr536779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53678"
+msgid "gr53678"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536780"
+msgid "gr536780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536781"
+msgid "gr536781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536782"
+msgid "gr536782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536783"
+msgid "gr536783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536784"
+msgid "gr536784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536785"
+msgid "gr536785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536786"
+msgid "gr536786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536787"
+msgid "gr536787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536788"
+msgid "gr536788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536789"
+msgid "gr536789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53679"
+msgid "gr53679"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536790"
+msgid "gr536790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536791"
+msgid "gr536791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536792"
+msgid "gr536792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536793"
+msgid "gr536793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536794"
+msgid "gr536794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536795"
+msgid "gr536795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536796"
+msgid "gr536796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536797"
+msgid "gr536797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536798"
+msgid "gr536798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr536799"
+msgid "gr536799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537"
+msgid "gr537"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53777"
+msgid "gr53777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537770"
+msgid "gr537770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537771"
+msgid "gr537771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537772"
+msgid "gr537772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537773"
+msgid "gr537773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537774"
+msgid "gr537774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537775"
+msgid "gr537775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537776"
+msgid "gr537776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537777"
+msgid "gr537777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537778"
+msgid "gr537778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537779"
+msgid "gr537779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53778"
+msgid "gr53778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537780"
+msgid "gr537780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537781"
+msgid "gr537781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537782"
+msgid "gr537782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537783"
+msgid "gr537783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537784"
+msgid "gr537784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537785"
+msgid "gr537785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537786"
+msgid "gr537786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537787"
+msgid "gr537787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537788"
+msgid "gr537788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537789"
+msgid "gr537789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53779"
+msgid "gr53779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537790"
+msgid "gr537790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537791"
+msgid "gr537791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537792"
+msgid "gr537792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537793"
+msgid "gr537793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537794"
+msgid "gr537794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537795"
+msgid "gr537795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537796"
+msgid "gr537796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537797"
+msgid "gr537797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537798"
+msgid "gr537798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr537799"
+msgid "gr537799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538"
+msgid "gr538"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53877"
+msgid "gr53877"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538770"
+msgid "gr538770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538771"
+msgid "gr538771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538772"
+msgid "gr538772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538773"
+msgid "gr538773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538774"
+msgid "gr538774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538775"
+msgid "gr538775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538776"
+msgid "gr538776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538777"
+msgid "gr538777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538778"
+msgid "gr538778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538779"
+msgid "gr538779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53878"
+msgid "gr53878"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538780"
+msgid "gr538780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538781"
+msgid "gr538781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538782"
+msgid "gr538782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538783"
+msgid "gr538783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538784"
+msgid "gr538784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538785"
+msgid "gr538785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538786"
+msgid "gr538786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538787"
+msgid "gr538787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538788"
+msgid "gr538788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538789"
+msgid "gr538789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53879"
+msgid "gr53879"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538790"
+msgid "gr538790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538791"
+msgid "gr538791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538792"
+msgid "gr538792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538793"
+msgid "gr538793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538794"
+msgid "gr538794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538795"
+msgid "gr538795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538796"
+msgid "gr538796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538797"
+msgid "gr538797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538798"
+msgid "gr538798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr538799"
+msgid "gr538799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539"
+msgid "gr539"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53977"
+msgid "gr53977"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539770"
+msgid "gr539770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539771"
+msgid "gr539771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539772"
+msgid "gr539772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539773"
+msgid "gr539773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539774"
+msgid "gr539774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539775"
+msgid "gr539775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539776"
+msgid "gr539776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539777"
+msgid "gr539777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539778"
+msgid "gr539778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539779"
+msgid "gr539779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53978"
+msgid "gr53978"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539780"
+msgid "gr539780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539781"
+msgid "gr539781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539782"
+msgid "gr539782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539783"
+msgid "gr539783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539784"
+msgid "gr539784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539785"
+msgid "gr539785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539786"
+msgid "gr539786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539787"
+msgid "gr539787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539788"
+msgid "gr539788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539789"
+msgid "gr539789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr53979"
+msgid "gr53979"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539790"
+msgid "gr539790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539791"
+msgid "gr539791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539792"
+msgid "gr539792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539793"
+msgid "gr539793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539794"
+msgid "gr539794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539795"
+msgid "gr539795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539796"
+msgid "gr539796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539797"
+msgid "gr539797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539798"
+msgid "gr539798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/gr539799"
+msgid "gr539799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia"
+msgid "A soldier has been Killed in Action."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia2"
+msgid "We have 2x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia3"
+msgid "We have 3x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia4"
+msgid "We have 4x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia5-6"
+msgid "We have bodies that need to return to base."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia7"
+msgid "We have too many KIA in the field."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/kia9"
+msgid "The troops wont accept any further losses.  "
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/loosing_toomany"
+msgid "You are loosing too many troops!!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/mandown"
+msgid "Man down, man down!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/medchopper"
+msgid "Move dead to Med Chopper for replacements"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/name"
+msgid "Vietnam Valley"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/name_big"
+msgid "Vietnam Valley"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/next_pl"
+msgid "Next Platoon ETA..."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/no_comd"
+msgid "No commanders are left on the battlefield."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/place"
+msgid "Grid Square 52,77"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/story"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/task3-1plcomd "
+msgid "1 Platoon is back under your command."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/task3-brief"
+msgid "Destroy all the AA Guns."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/task_1"
+msgid "Secure LZ, sweep road SE."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/task_2"
+msgid "Search and Destroy Enemy Armor."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/task_3"
+msgid "Destroy AA Guns."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/01_vietnam valley/too_long"
+msgid "Time left to complete mission."
+msgstr ""

@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (mission)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "mission/multi/1v1_construction_yard/name"
+msgid "Construction Yard"
+msgstr ""
+
+msgctxt "mission/multi/2v2_crash_site/name"
+msgid "Crash Site"
+msgstr ""
+
+msgctxt "mission/multi/1v1_dam/name"
+msgid "Dam"
+msgstr ""
+
+msgctxt "mission/multi/1v1_cold_industry/name"
+msgid "Cold Industry"
+msgstr ""
+
+msgctxt "mission/multi/6v6_desert_ruins/name"
+msgid "Desert Ruins"
+msgstr ""
+
+msgctxt "mission/multi/2v2_monastery/name"
+msgid "Monastery"
+msgstr ""
+
+msgctxt "mission/multi/1v1_highway/name"
+msgid "Highway"
+msgstr ""
+
+msgctxt "mission/multi/1v1_creek/name"
+msgid "Creek"
+msgstr ""
+
+msgctxt "mission/multi/1v1_radar_base/name"
+msgid "Radar Base"
+msgstr ""
+
+msgctxt "mission/multi/2v2_market/name"
+msgid "Market"
+msgstr ""
+
+msgctxt "mission/multi/2v2_oilfield/name"
+msgid "Oilfield"
+msgstr ""
+
+msgctxt "mission/multi/2v2_village/name"
+msgid "Village"
+msgstr ""
+
+msgctxt "mission/multi/2v2_desert_camp/name"
+msgid "Desert Camp"
+msgstr ""
+
+msgctxt "mission/multi/4v4_airfield/name"
+msgid "Airfield"
+msgstr ""
+
+msgctxt "mission/multi/4v4_fields/name"
+msgid "Fields"
+msgstr ""
+
+msgctxt "mission/multi/4v4_military_base/name"
+msgid "Military Base"
+msgstr ""
+
+msgctxt "mission/multi/4v4_mountain/name"
+msgid "Mountain Village"
+msgstr ""
+
+msgctxt "mission/multi/4v4_power_plant/name"
+msgid "Power Plant"
+msgstr ""
+
+msgctxt "mission/multi/4v4_port/name"
+msgid "Port"
+msgstr ""
+
+msgctxt "mission/multi/4v4_riverbed/name"
+msgid "Riverbed"
+msgstr ""
+
+msgctxt "mission/multi/8v8_rural_village/name"
+msgid "Rural Village"
+msgstr ""
+
+msgctxt "mission/multi/6v6_city/name"
+msgid "City"
+msgstr ""
+
+msgctxt "mission/multi/6v6_factory/name"
+msgid "Factory"
+msgstr ""
+
+msgctxt "mission/multi/8v8_hills/name"
+msgid "Hills"
+msgstr ""
+
+msgctxt "mission/multi/6v6_scrapyard/name"
+msgid "Scrapyard"
+msgstr ""
+
+msgctxt "mission/multi/6v6_snowy_village/name"
+msgid "Snowy Village"
+msgstr ""
+
+msgctxt "mission/multi/8v8_delta/name"
+msgid "Delta"
+msgstr ""
+
+msgctxt "mission/multi/8v8_train_station/name"
+msgid "Train Station"
+msgstr ""
+
+msgctxt "mission/multi/8v8_frozen_forest/name"
+msgid "Frozen Forest"
+msgstr ""
+
+msgctxt "mission/multi/8v8_desert_airfield/name"
+msgid "Desert Airfield"
+msgstr ""
+
+msgctxt "mission/multi/2v2_town/name"
+msgid "Town"
+msgstr ""
+
+msgctxt "mission/multi/8v8_woodland/name"
+msgid "Woodlands"
+msgstr ""
+
+msgctxt "mission/multi/1v1_bridge/name"
+msgid "Bridge"
+msgstr ""
+
+msgctxt "mission/multi/4v4_barren_land/name"
+msgid "Barren Land"
+msgstr ""
+
+msgctxt "mission/multi/8v8_desert_bridge/name"
+msgid "Desert Bridge"
+msgstr ""
+
+msgctxt "mission/multi/2v2_snow_fox/name"
+msgid "Snow Fox"
+msgstr ""
+
+msgctxt "mission/multi/4v4_field/name"
+msgid "Field"
+msgstr ""
+
+msgctxt "mission/multi/8v8_siege/name"
+msgid "Siege"
+msgstr ""
+
+msgctxt "mission/multi/000_Vietnam/name"
+msgid "vietnam valley"
+msgstr ""
+
+msgctxt "mission/multi/vietnam valley/name"
+msgid "vietnam valley"
+msgstr ""

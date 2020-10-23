@@ -1,0 +1,4631 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (desc)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "desc/human/special/hint"
+msgid "Hint"
+msgstr ""
+
+msgctxt "desc/squad/squad1(rus)"
+msgid "Prizyvniki"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_rus"
+msgid "Prizyvniki (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad2(rus)"
+msgid "Kontraktniki"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_rus"
+msgid "Kontraktniki (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3(rus)"
+msgid "Veterany"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_rus"
+msgid "Veterany (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad4(rus)"
+msgid "VDV"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_rus"
+msgid "VDV (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad5(rus)"
+msgid "Gvardiya"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_rus"
+msgid "Gvardiya (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad6(rus)"
+msgid "Spetsnaz"
+msgstr ""
+
+msgctxt "desc/squad/squad12(rus)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/squad/squad11(rus)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/squad/squad7(rus)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad8(rus)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/squad/squad9(rus)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(rus)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/squad/squad13(rus)"
+msgid "Grenadier Team"
+msgstr ""
+
+msgctxt "desc/squad/squad14(rus)"
+msgid "Anti-Materiel Rifle Team"
+msgstr ""
+
+msgctxt "desc/squad/squad15(rus)"
+msgid "Stealth Sniper Team"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_rus"
+msgid "Spetsnaz (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad1(ger)"
+msgid "Aufklärer"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_ger"
+msgid "Aufklärer (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad2(ger)"
+msgid "Schützen"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_ger"
+msgid "Schützen (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3(ger)"
+msgid "MG-Trupp"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_ger"
+msgid "MG-Trupp (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad4(ger)"
+msgid "Panzergrenadiere"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_ger"
+msgid "Panzergrenadiere (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad5(ger)"
+msgid "Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_ger"
+msgid "Fallschirmjäger (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad6(ger)"
+msgid "KSK"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_ger"
+msgid "KSK (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad12(ger)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/squad/squad11(ger)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/squad/squad7(ger)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad8(ger)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/squad/squad9(ger)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(ger)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/squad/squad13(ger)"
+msgid "Scout Team"
+msgstr ""
+
+msgctxt "desc/squad/squad14(ger)"
+msgid "Elite Marksmen Team"
+msgstr ""
+
+msgctxt "desc/squad/squad15(ger)"
+msgid "Elite Engineer Team"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_reb"
+msgid "Stormtroopers (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_grm"
+msgid "Courier"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_usa"
+msgid "U.S. Centcom"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_07"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian5"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/entity/technical_passenger_reb"
+msgid "Technical"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_grm_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_01"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_usa_player3"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_02"
+msgid "U.S. Marine"
+msgstr ""
+
+msgctxt "desc/weapon/gmw_v2"
+msgid "GMW"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_02"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_sq"
+msgid "UAF Airborne Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_usa_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/fauna/horse2"
+msgid "Horse"
+msgstr ""
+
+msgctxt "desc/weapon/g36a2_v2"
+msgid "G36A2"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_bgm-71_x2"
+msgid "152mm BGM-71 TOW"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_03"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t5_03"
+msgid "U.S. Seal"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_02"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "desc/squad/squad13(uaf)"
+msgid "Marksmen Team"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_usa_player2"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_grm_player2"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_usa"
+msgid "U.S. Marines (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_assault2"
+msgid "U.S. Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_02"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_sniper_02"
+msgid "GRM Sniper"
+msgstr ""
+
+msgctxt "desc/squad/squad16(uaf)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_at_01"
+msgid "U.S. AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t5_03"
+msgid "UAF CT Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_03"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_reb"
+msgid "Mil Mi-17"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_uaf"
+msgid "Mil Mi-17"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1b_sq"
+msgid "GRM Insurgent Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1_03"
+msgid "GRM Insurgents"
+msgstr ""
+
+msgctxt "desc/ammo/bullet120 ap"
+msgid "120mm APFSDS"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_04"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/squad/squad23(uaf)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_grm"
+msgid "Pasdaran (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_05"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/stuff/m67"
+msgid "M67"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_06"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_06"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/weapon/aks74u_v3"
+msgid "AKS-74U"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_medic"
+msgid "U.S. Soldier Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1_sq"
+msgid "GRM Insurgents Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t4_03"
+msgid "German Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/squad/squad19(reb)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v4"
+msgid "SEAL Knife 2000"
+msgstr ""
+
+msgctxt "desc/weapon/at4cs_v1"
+msgid "AT-4 CS"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t4_sq"
+msgid "UAF Sa'ka Operator Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_scout"
+msgid "U.S. Scout"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t2_sq"
+msgid "U.S. Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_01"
+msgid "U.S. Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_sniper"
+msgid "U.S. Sniper"
+msgstr ""
+
+msgctxt "desc/entity/car"
+msgid "Civilian Car"
+msgstr ""
+
+msgctxt "desc/entity/train_wagon_container"
+msgid "Train Wagon"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v1"
+msgid "M9"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_03"
+msgid "U.S. Marine"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_04"
+msgid "U.S. Marine"
+msgstr ""
+
+msgctxt "desc/ammo/spg9 ap"
+msgid "SPG-9 HEAT"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1b_01"
+msgid "GRM Insurgent"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_reb"
+msgid "Special Ops (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_marksman"
+msgid "U.S. Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_shotgunner"
+msgid "U.S. Shotgunner"
+msgstr ""
+
+msgctxt "desc/entity/m2_bradley"
+msgid "M2A3 Bradley"
+msgstr ""
+
+msgctxt "desc/human/civilian/scientist_male"
+msgid "Scientist"
+msgstr ""
+
+msgctxt "desc/entity/fishingboat"
+msgid "Fishing Boat"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_medic"
+msgid "U.S. Marine Medic"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian3"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_grm"
+msgid "Assassins (Motorized)"
+msgstr ""
+
+msgctxt "desc/stuff/barrel"
+msgid "Fuel Barrel"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_medic"
+msgid "UAF Airborne Medic"
+msgstr ""
+
+msgctxt "desc/fauna/dog"
+msgid "Dog"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t3_sq"
+msgid "U.S. Marine Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1b_02"
+msgid "GRM Insurgent"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t4_01"
+msgid "U.S. Ranger"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1_02"
+msgid "GRM Insurgents"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t4_02"
+msgid "U.S. Ranger"
+msgstr ""
+
+msgctxt "desc/squad/squad15(grm)"
+msgid "Heavy AT Team"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_sq"
+msgid "GRM Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t4_03"
+msgid "U.S. Ranger"
+msgstr ""
+
+msgctxt "desc/squad/squad17(usa)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_04"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/ammo/bullet125 ap"
+msgid "125mm APFSDS"
+msgstr ""
+
+msgctxt "desc/human/civilian/scientist_female"
+msgid "Scientist"
+msgstr ""
+
+msgctxt "desc/entity/matv_m2hb"
+msgid "MATV M2HB"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_tankman_01"
+msgid "U.S. Tankman"
+msgstr ""
+
+msgctxt "desc/squad/squad13(usa)"
+msgid "Grenadier Team"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t4_sq"
+msgid "U.S. Ranger Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_01"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "desc/weapon/82mm_mortar"
+msgid "2B14 Podnos"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1cqbr_v1"
+msgid "M4A1 CQBR"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t5_01"
+msgid "U.S. Seal"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_01"
+msgid "GRM Guard"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_pilot_02"
+msgid "U.S. Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t5_02"
+msgid "U.S. Seal"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_pilot_02"
+msgid "German Pilot"
+msgstr ""
+
+msgctxt "desc/entity/train_fuelwagon"
+msgid "Train Wagon"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t5_sq"
+msgid "UAF CT Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/t5_sq"
+msgid "U.S. Seal Squad Leader"
+msgstr ""
+
+msgctxt "desc/squad/squad10(grm)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_engineer_01"
+msgid "U.S. Engineer"
+msgstr ""
+
+msgctxt "desc/squad/squad24(usa)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_assault"
+msgid "U.S. Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t5_03"
+msgid "German KSK"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_sniper_01"
+msgid "U.S. Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_mg"
+msgid "U.S. Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad20(reb)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad23(reb)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache_heavy"
+msgid "AH-64 Apache Heavy"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_specop"
+msgid "U.S. SpecOP"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/th_heavy_assault"
+msgid "U.S. Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_03"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_pilot_01"
+msgid "U.S. Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_sniper_02"
+msgid "U.S. Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_sniper_03"
+msgid "U.S. Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t4_03"
+msgid "GRM Pasdaran"
+msgstr ""
+
+msgctxt "desc/weapon/130mm_ataka_x8"
+msgid "130mm 9M114 Kokon"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_uaf"
+msgid "Airborne (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tx_pilot_02b"
+msgid "U.S. Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1_01"
+msgid "GRM Insurgents"
+msgstr ""
+
+msgctxt "desc/squad/squad2(grm)"
+msgid "Conscripts"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t1b_03"
+msgid "GRM Insurgent"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_01"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/entity/tiger"
+msgid "Tiger"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_04"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35_heavy_uaf"
+msgid "Mil Mi-35 Heavy"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_05"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t2_medic"
+msgid "GRM Soldier Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_02"
+msgid "GRM Guard"
+msgstr ""
+
+msgctxt "desc/squad/squad21(uaf)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_03"
+msgid "GRM Guard"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_03"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_04"
+msgid "GRM Guard"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_medic"
+msgid "GRM Guard Medic"
+msgstr ""
+
+msgctxt "desc/weapon/g27_v1"
+msgid "G27"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t3_sq"
+msgid "GRM Guard Squad Leader"
+msgstr ""
+
+msgctxt "desc/entity/truck"
+msgid "Truck"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t4_01"
+msgid "GRM Pasdaran"
+msgstr ""
+
+msgctxt "desc/entity/m60a3_uaf"
+msgid "M60A3"
+msgstr ""
+
+msgctxt "desc/weapon/g36ka4_v2"
+msgid "G36KA4"
+msgstr ""
+
+msgctxt "desc/entity/leopard_2a4"
+msgid "Leopard 2A4"
+msgstr ""
+
+msgctxt "desc/entity/leopard_2a5"
+msgid "Leopard 2A5"
+msgstr ""
+
+msgctxt "desc/entity/leopard_2a7"
+msgid "Leopard 2A7"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t4_02"
+msgid "GRM Pasdaran"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t4_sq"
+msgid "GRM Pasdaran Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t5_01"
+msgid "GRM Assassin"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_specop"
+msgid "German SpecOP"
+msgstr ""
+
+msgctxt "desc/entity/fishingboat2"
+msgid "Fishing Boat"
+msgstr ""
+
+msgctxt "desc/weapon/rpk_v1"
+msgid "RPK"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t5_02"
+msgid "GRM Assassin"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1cqbr_v2"
+msgid "M4A1 CQBR"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t5_03"
+msgid "GRM Assassin"
+msgstr ""
+
+msgctxt "desc/ammo/mk19"
+msgid "40mm Grenade"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/t5_sq"
+msgid "GRM Assassin"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_assault"
+msgid "GRM Assault Storm"
+msgstr ""
+
+msgctxt "desc/weapon/m21bs_v1"
+msgid "M21BS"
+msgstr ""
+
+msgctxt "desc/weapon/an-94_v1"
+msgid "AN-94"
+msgstr ""
+
+msgctxt "desc/ammo/bullet125 heat"
+msgid "125mm HEAT"
+msgstr ""
+
+msgctxt "desc/squad/squad3(uaf)"
+msgid "Support Squad"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_coaxial"
+msgid "<f(arial_hq)><c(%1%)>Coaxial</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_assault2"
+msgid "GRM Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t5_01"
+msgid "German KSK"
+msgstr ""
+
+msgctxt "desc/weapon/115mm_2a20"
+msgid "115mm U-5TS"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_mg"
+msgid "GRM Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_scout"
+msgid "GRM Scout"
+msgstr ""
+
+msgctxt "desc/entity/t-80bv_uaf"
+msgid "T-80BV"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_marksman"
+msgid "GRM Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_shotgunner"
+msgid "GRM Shotgunner"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_specop"
+msgid "GRM SpecOP"
+msgstr ""
+
+msgctxt "desc/squad/squad22(uaf)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_heavy_assault"
+msgid "GRM Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/th_sniper"
+msgid "GRM Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_at_01"
+msgid "GRM AT Soldier"
+msgstr ""
+
+msgctxt "desc/entity/truck_trailer_cementmixer"
+msgid "Cement Truck"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_at_02"
+msgid "GRM AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_engineer_01"
+msgid "GRM Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_sniper_01"
+msgid "GRM Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_sq"
+msgid "German Panzergrenadier Squad Leader"
+msgstr ""
+
+msgctxt "desc/entity/speedboat"
+msgid "Speedboat"
+msgstr ""
+
+msgctxt "desc/weapon/m16a2_v2"
+msgid "M16A2"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_tankman_01"
+msgid "GRM Tankman"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_pilot_01"
+msgid "GRM Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tx_pilot_02"
+msgid "GRM Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_01"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35_heavy"
+msgid "Mil Mi-35 Heavy"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_02"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_reb"
+msgid "Contractors (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_04"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_05"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_medic"
+msgid "UAF Soldier Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_scout"
+msgid "German Scout"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t2_sq"
+msgid "UAF Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/weapon/m2hb_v2"
+msgid "M2HB"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_03"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "desc/entity/humvee_m2hb"
+msgid "LAC M2HB"
+msgstr ""
+
+msgctxt "desc/weapon/rpg7_v1"
+msgid "RPG-7"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t3_04"
+msgid "UAF Airborne"
+msgstr ""
+
+msgctxt "desc/squad/squad1(uaf)"
+msgid "Volunteer Squad"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t4_01"
+msgid "UAF Sa'ka Operator"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t4_02"
+msgid "UAF Sa'ka Operator"
+msgstr ""
+
+msgctxt "desc/entity/ural"
+msgid "Ural"
+msgstr ""
+
+msgctxt "desc/stuff/can"
+msgid "Fuel Can"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t4_03"
+msgid "UAF Sa'ka Operator"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v1c"
+msgid "KM 2000"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_mg"
+msgid "Rebel Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t5_01"
+msgid "UAF CT Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/t5_02"
+msgid "UAF CT Officer"
+msgstr ""
+
+msgctxt "desc/squad/squad17(reb)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_assault"
+msgid "UAF Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t5_01"
+msgid "Rebel Special Op"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_assault2"
+msgid "UAF Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_mg"
+msgid "UAF Machine Gunner"
+msgstr ""
+
+msgctxt "desc/entity/lav25a2"
+msgid "LAV-25A2"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_scout"
+msgid "UAF Scout"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_marksman"
+msgid "UAF Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_shotgunner"
+msgid "UAF Shotgunner"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_specop"
+msgid "UAF SpecOP"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_heavy_assault"
+msgid "UAF Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/th_sniper"
+msgid "UAF Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_at_01"
+msgid "UAF AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t5_02"
+msgid "Rebel Special Op"
+msgstr ""
+
+msgctxt "desc/weapon/spg9_v1"
+msgid "SPG-9"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_at_02"
+msgid "UAF AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t5_03"
+msgid "Rebel Special Op"
+msgstr ""
+
+msgctxt "desc/squad/squad14(grm)"
+msgid "Shotgunner Team"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_engineer_01"
+msgid "UAF Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_sniper_01"
+msgid "UAF Sniper"
+msgstr ""
+
+msgctxt "desc/ammo/82mm_mortar sm"
+msgid "81mm Smoke"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_sniper_02"
+msgid "UAF Sniper"
+msgstr ""
+
+msgctxt "desc/entity/gaz2975a_kord"
+msgid "GAZ Tigr Kord 6P50"
+msgstr ""
+
+msgctxt "desc/weapon/panzerfaust_v1"
+msgid "Panzerfaust 3"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_tankman_01"
+msgid "UAF Tankman"
+msgstr ""
+
+msgctxt "desc/weapon/nsvt_v1"
+msgid "NSVT"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_pilot_01"
+msgid "UAF Pilot"
+msgstr ""
+
+msgctxt "desc/squad/squad21(usa)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/entity/nsw_rigid_inflatable"
+msgid "NSW RHIB"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tx_pilot_02"
+msgid "UAF Pilot"
+msgstr ""
+
+msgctxt "desc/entity/humvee_lmg_uaf"
+msgid "LAC MAG"
+msgstr ""
+
+msgctxt "desc/weapon/uzi_v2"
+msgid "Mini"
+msgstr ""
+
+msgctxt "desc/weapon/uzi_v1"
+msgid "Mini"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_01"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_02"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_05"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_medic"
+msgid "Rebel Soldier Medic"
+msgstr ""
+
+msgctxt "desc/entity/2b14_mortar"
+msgid "2B14 Podnos"
+msgstr ""
+
+msgctxt "desc/stuff/morphine"
+msgid "Medkit"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_sq"
+msgid "Rebel Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v4b"
+msgid "MP-444 Bagira"
+msgstr ""
+
+msgctxt "desc/ammo/7x67"
+msgid "7.62x67mm"
+msgstr ""
+
+msgctxt "desc/weapon/uzi_v3"
+msgid "Mini"
+msgstr ""
+
+msgctxt "desc/weapon/aks74u_v2"
+msgid "AKS-74U"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_01"
+msgid "Rebel Stormtrooper"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_02"
+msgid "Rebel Stormtrooper"
+msgstr ""
+
+msgctxt "desc/entity/wiesel_tow"
+msgid "Wiesel 1A1 TOW"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_03"
+msgid "Rebel Stormtrooper"
+msgstr ""
+
+msgctxt "desc/squad/squad5(reb)"
+msgid "Contractors"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_04"
+msgid "Rebel Stormtrooper"
+msgstr ""
+
+msgctxt "desc/squad/squad8(grm)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/weapon/ump45_v2"
+msgid "UMP45"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_medic"
+msgid "Rebel Stormtrooper Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t3_sq"
+msgid "Rebel Stormtrooper Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t4_01"
+msgid "Rebel Contractor"
+msgstr ""
+
+msgctxt "desc/squad/squad24(reb)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/weapon/m77_v2"
+msgid "M77 B1"
+msgstr ""
+
+msgctxt "desc/weapon/arx160_v3"
+msgid "ARX-160"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t4_02"
+msgid "Rebel Contractor"
+msgstr ""
+
+msgctxt "desc/entity/t-72bm"
+msgid "T-72B"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t4_03"
+msgid "Rebel Contractor"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t4_sq"
+msgid "Rebel Contractor Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t5_sq"
+msgid "Rebel Special Op"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_assault"
+msgid "Rebel Assault Storm"
+msgstr ""
+
+msgctxt "desc/fauna/red_deer_stag"
+msgid "Red Deer Stag"
+msgstr ""
+
+msgctxt "desc/ammo/ap"
+msgid "Armor Piercing"
+msgstr ""
+
+msgctxt "desc/fauna/shark"
+msgid "Shark"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_assault2"
+msgid "Rebel Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_sniper_02"
+msgid "German Sniper"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_rear"
+msgid "<f(arial_hq)><c(%1%)>Rear</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_scout"
+msgid "Rebel Scout"
+msgstr ""
+
+msgctxt "desc/ammo/7x51"
+msgid "7.62x51mm"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_m256a1"
+msgid "120mm M256A1"
+msgstr ""
+
+msgctxt "desc/squad/squad4(reb)"
+msgid "Stormtroopers"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_marksman"
+msgid "Rebel Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_shotgunner"
+msgid "Rebel Shotgunner"
+msgstr ""
+
+msgctxt "desc/entity/stryker_m1128"
+msgid "M1128 Stryker MGS"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_specop"
+msgid "Rebel SpecOP"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_heavy_assault"
+msgid "Rebel Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/th_sniper"
+msgid "Rebel Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_at_01"
+msgid "Rebel AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t4_01"
+msgid "German Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/entity/bmp2m"
+msgid "BMP-2M"
+msgstr ""
+
+msgctxt "desc/entity/technical_passenger"
+msgid "Technical"
+msgstr ""
+
+msgctxt "desc/weapon/fn_scar_v1"
+msgid "SCAR-H"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_at_02"
+msgid "Rebel AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_engineer_01"
+msgid "Rebel Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_sniper_01"
+msgid "Rebel Sniper"
+msgstr ""
+
+msgctxt "desc/entity/atf_dingo_mg3"
+msgid "ATF Dingo MG3"
+msgstr ""
+
+msgctxt "desc/fauna/raven"
+msgid "Raven"
+msgstr ""
+
+msgctxt "desc/squad/squad6(uaf)"
+msgid "Counter Terrorism"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_sniper_02"
+msgid "Rebel Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_tankman_01"
+msgid "Rebel Tankman"
+msgstr ""
+
+msgctxt "desc/ammo/82mm_mortar fg"
+msgid "82mm HE"
+msgstr ""
+
+msgctxt "desc/stuff/empty"
+msgid "empty"
+msgstr ""
+
+msgctxt "desc/container/small_box"
+msgid "Box"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_pilot_01"
+msgid "Rebel Pilot"
+msgstr ""
+
+msgctxt "desc/ammo/7x54"
+msgid "7.62x54mm"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tx_pilot_02"
+msgid "Rebel Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_01"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v4c"
+msgid "P12"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_02"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/squad/squad4(usa)"
+msgid "U.S. Marines"
+msgstr ""
+
+msgctxt "desc/entity/train_engine"
+msgid "Train Engine"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_sq"
+msgid "German Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v4"
+msgid "M45C"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_engineer_01"
+msgid "German Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_03"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/entity/bus"
+msgid "Bus"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_04"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_05"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_06"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/weapon/fn_fal_v1"
+msgid "FAL"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_07"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2_medic"
+msgid "German Soldier Medic"
+msgstr ""
+
+msgctxt "desc/squad/squad14(reb)"
+msgid "Saboteur Team"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_01"
+msgid "German Panzergrenadier"
+msgstr ""
+
+msgctxt "desc/squad/squad6(usa)"
+msgid "U.S. Seals"
+msgstr ""
+
+msgctxt "desc/squad/squad24(uaf)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_02"
+msgid "German Panzergrenadier"
+msgstr ""
+
+msgctxt "desc/squad/squad18(usa)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_mg"
+msgid "Mil Mi-17 Heavy"
+msgstr ""
+
+msgctxt "desc/ammo/bullet159 atgm"
+msgid "159mm PARS 3 LR"
+msgstr ""
+
+msgctxt "desc/weapon/159mm_pars3lr_x8"
+msgid "159mm PARS 3 LR"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_03"
+msgid "German Panzergrenadier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_04"
+msgid "German Panzergrenadier"
+msgstr ""
+
+msgctxt "desc/entity/technical_hmg_reb"
+msgid "Technical DShK"
+msgstr ""
+
+msgctxt "desc/entity/technical_atgm_reb"
+msgid "Technical Konkurs"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t3_medic"
+msgid "German Panzergrenadier Medic"
+msgstr ""
+
+msgctxt "desc/entity/train_wagon_2"
+msgid "Train Wagon"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t4_02"
+msgid "German Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/squad/squad15(usa)"
+msgid "Heavy Sniper Team"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t4_sq"
+msgid "German Fallschirmjäger Squad Leader"
+msgstr ""
+
+msgctxt "desc/stuff/rgd-5"
+msgid "RGD-5"
+msgstr ""
+
+msgctxt "desc/weapon/type/gun_main"
+msgid "<f(arial_hq)><c(%1%)>Main Gun</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t5_02"
+msgid "German KSK"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v3b"
+msgid "MP-443 Grach"
+msgstr ""
+
+msgctxt "desc/squad/squad17(uaf)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/ammo/spg9 fg"
+msgid "SPG-9 FRAG-HE"
+msgstr ""
+
+msgctxt "desc/weapon/akm_v2"
+msgid "AKM"
+msgstr ""
+
+msgctxt "desc/weapon/type/gun_secondary"
+msgid "<f(arial_hq)><c(%1%)>Secondary Gun</c>"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t5_sq"
+msgid "German KSK Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_assault"
+msgid "German Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian1"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_grm"
+msgid "Conscripts (Motorized)"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_assault2"
+msgid "German Assault Recon"
+msgstr ""
+
+msgctxt "desc/entity/acv-15_ifv"
+msgid "ACV-15 IFV"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_mg"
+msgid "German Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_marksman"
+msgid "German Marksman"
+msgstr ""
+
+msgctxt "desc/entity/zetros_ammo"
+msgid "Zetros Ammo"
+msgstr ""
+
+msgctxt "desc/weapon/mg4_v1"
+msgid "MG4"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_shotgunner"
+msgid "German Shotgunner"
+msgstr ""
+
+msgctxt "desc/entity/t-80u"
+msgid "T-80U"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_heavy_assault"
+msgid "German Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/th_sniper"
+msgid "German Sniper"
+msgstr ""
+
+msgctxt "desc/entity/m1a2_abrams_tusk"
+msgid "M1A2 Abrams TUSK"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_at_01"
+msgid "German AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_sniper_01"
+msgid "German Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_sniper_03"
+msgid "German Sniper"
+msgstr ""
+
+msgctxt "desc/ammo/bullet105 heat"
+msgid "105mm HEAT"
+msgstr ""
+
+msgctxt "desc/entity/btr-80_reb"
+msgid "BTR-80"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_tankman_01"
+msgid "German Tankman"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_pilot_01"
+msgid "German Pilot"
+msgstr ""
+
+msgctxt "desc/squad/squad7(uaf)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad13(reb)"
+msgid "Close Quarter Team"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35_reb"
+msgid "Mil Mi-35"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian2"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian4"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian_female1"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian_female2"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian_female3"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/entity/bmp1"
+msgid "BMP-1"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian_female4"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/civilian/civilian_female5"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/squad/squad1(usa)"
+msgid "Assault Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad2(usa)"
+msgid "Marksmen Squad"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_reb"
+msgid "Veterans (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3(usa)"
+msgid "Defense Squad"
+msgstr ""
+
+msgctxt "desc/weapon/type/dummy"
+msgid "Steer"
+msgstr ""
+
+msgctxt "desc/ammo/bulletdummy ap"
+msgid " "
+msgstr ""
+
+msgctxt "desc/squad/squad5(usa)"
+msgid "U.S. Rangers"
+msgstr ""
+
+msgctxt "desc/entity/technical_lmg"
+msgid "Technical PKM"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_usa"
+msgid "Assault Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_usa"
+msgid "Marksmen Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_usa"
+msgid "Defense Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad8(uaf)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_gsh-30-2k"
+msgid "30mm GSh-30K"
+msgstr ""
+
+msgctxt "desc/squad/squad5(uaf)"
+msgid "Sa'ka Operators"
+msgstr ""
+
+msgctxt "desc/weapon/m16a4_v2"
+msgid "M16A4"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_usa"
+msgid "U.S. Rangers (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_usa"
+msgid "U.S. Seals (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad7(usa)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad1(grm)"
+msgid "Militia"
+msgstr ""
+
+msgctxt "desc/squad/squad8(usa)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/weapon/enfield_v1"
+msgid "Lee-Enfield No. 4 Mk. I"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35_heavy_reb"
+msgid "Mil Mi-35 Heavy"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v3b"
+msgid "Karatel"
+msgstr ""
+
+msgctxt "desc/squad/squad9(usa)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(usa)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/entity/ural_ammo"
+msgid "Ural Ammo"
+msgstr ""
+
+msgctxt "desc/weapon/g27_v2"
+msgid "G27"
+msgstr ""
+
+msgctxt "desc/squad/squad11(usa)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/fauna/sheep"
+msgid "Sheep"
+msgstr ""
+
+msgctxt "desc/squad/squad12(usa)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/stuff/repair_kit"
+msgid "Repair Kit"
+msgstr ""
+
+msgctxt "desc/squad/squad22(usa)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/squad/squad14(usa)"
+msgid "Marksmen Team"
+msgstr ""
+
+msgctxt "desc/squad/squad16(usa)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/entity/gtk_boxer_m2hb"
+msgid "GTK Boxer M2HB"
+msgstr ""
+
+msgctxt "desc/entity/technical_hmg"
+msgid "Technical Kord 6P50"
+msgstr ""
+
+msgctxt "desc/squad/squad19(usa)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/squad/squad20(usa)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad23(usa)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/fauna/goat"
+msgid "Goat"
+msgstr ""
+
+msgctxt "desc/squad/squad3(grm)"
+msgid "Mercenaries"
+msgstr ""
+
+msgctxt "desc/ammo/m72"
+msgid "M72 LAW HEAT"
+msgstr ""
+
+msgctxt "desc/squad/squad4(grm)"
+msgid "Guards"
+msgstr ""
+
+msgctxt "desc/stuff/dummy"
+msgid " "
+msgstr ""
+
+msgctxt "desc/squad/squad5(grm)"
+msgid "Pasdaran"
+msgstr ""
+
+msgctxt "desc/squad/squad6(grm)"
+msgid "Assassins"
+msgstr ""
+
+msgctxt "desc/entity/excavator"
+msgid "Excavator"
+msgstr ""
+
+msgctxt "desc/weapon/kord_v1"
+msgid "Kord 6P50"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_reb"
+msgid "Rebels (Motorized)"
+msgstr ""
+
+msgctxt "desc/entity/matv_mk19"
+msgid "MATV MK 19"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_grm"
+msgid "Militia (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_grm"
+msgid "Mercenaries (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad4b_grm"
+msgid "Guards (Motorized)"
+msgstr ""
+
+msgctxt "desc/fauna/swan"
+msgid "Swan"
+msgstr ""
+
+msgctxt "desc/squad/squad7(grm)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad9(grm)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad11(grm)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v3"
+msgid "M11"
+msgstr ""
+
+msgctxt "desc/weapon/fn_mag_v1"
+msgid "MAG"
+msgstr ""
+
+msgctxt "desc/squad/squad12(grm)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/squad/squad13(grm)"
+msgid "Insurgent Team"
+msgstr ""
+
+msgctxt "desc/entity/m1a1m"
+msgid "M1A1M Abrams"
+msgstr ""
+
+msgctxt "desc/entity/gaz2975a_ags"
+msgid "GAZ Tigr AGS"
+msgstr ""
+
+msgctxt "desc/fauna/hawk"
+msgid "Hawk"
+msgstr ""
+
+msgctxt "desc/squad/squad16(grm)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/entity/su-25k"
+msgid "SU-25K"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v3"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/squad/squad17(grm)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/weapon/m240l_v1"
+msgid "M240L"
+msgstr ""
+
+msgctxt "desc/squad/squad18(grm)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad19(grm)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/weapon/akm_v1"
+msgid "AKM"
+msgstr ""
+
+msgctxt "desc/squad/squad20(grm)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad21(grm)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/ammo/9x19"
+msgid "9x19mm"
+msgstr ""
+
+msgctxt "desc/ammo/bullet100 fg"
+msgid "100mm HE"
+msgstr ""
+
+msgctxt "desc/squad/squad22(grm)"
+msgid "SpecOP"
+msgstr ""
+
+msgctxt "desc/squad/squad23(grm)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad18(reb)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/weapon/dshk_v1"
+msgid "DShK"
+msgstr ""
+
+msgctxt "desc/entity/t-80um"
+msgid "T-80UM"
+msgstr ""
+
+msgctxt "desc/weapon/saiga12k_v1"
+msgid "S-12K"
+msgstr ""
+
+msgctxt "desc/squad/squad24(grm)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/squad2(uaf)"
+msgid "Combat Squad"
+msgstr ""
+
+msgctxt "desc/weapon/arx160_v2"
+msgid "ARX-160"
+msgstr ""
+
+msgctxt "desc/squad/squad4(uaf)"
+msgid "Airborne"
+msgstr ""
+
+msgctxt "desc/entity/acv-15_aapc"
+msgid "ACV-15 AAPC"
+msgstr ""
+
+msgctxt "desc/entity/bmp3"
+msgid "BMP-3"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_uaf"
+msgid "Volunteer Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad2b_uaf"
+msgid "Combat Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad3b_uaf"
+msgid "Support Squad (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad5b_uaf"
+msgid "Sa'ka Operators (Motorized)"
+msgstr ""
+
+msgctxt "desc/ammo/12gauge"
+msgid "12-gauge"
+msgstr ""
+
+msgctxt "desc/stuff/smokescreen"
+msgid "Smokescreen"
+msgstr ""
+
+msgctxt "desc/entity/ural_uaf"
+msgid "Ural"
+msgstr ""
+
+msgctxt "desc/squad/squad6b_uaf"
+msgid "Counter Terrorism (Motorized)"
+msgstr ""
+
+msgctxt "desc/entity/technical_spg"
+msgid "Technical SPG-9"
+msgstr ""
+
+msgctxt "desc/squad/squad9(uaf)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(uaf)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/fauna/donkey"
+msgid "Donkey"
+msgstr ""
+
+msgctxt "desc/squad/squad11(uaf)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/entity/spz_puma"
+msgid "SPz Puma"
+msgstr ""
+
+msgctxt "desc/squad/squad12(uaf)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/squad/squad14(uaf)"
+msgid "Demolition Team"
+msgstr ""
+
+msgctxt "desc/squad/squad15(uaf)"
+msgid "Heavy AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad18(uaf)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad19(uaf)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_kord"
+msgid "Mounted Kord 6P50"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_kord_sandbags"
+msgid "Mounted Kord 6P50"
+msgstr ""
+
+msgctxt "desc/squad/squad20(uaf)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad1(reb)"
+msgid "Reservists"
+msgstr ""
+
+msgctxt "desc/squad/squad2(reb)"
+msgid "Rebels"
+msgstr ""
+
+msgctxt "desc/squad/squad3(reb)"
+msgid "Veterans"
+msgstr ""
+
+msgctxt "desc/squad/squad6(reb)"
+msgid "Special Ops"
+msgstr ""
+
+msgctxt "desc/entity/kamaz"
+msgid "KamAZ"
+msgstr ""
+
+msgctxt "desc/ammo/5x39"
+msgid "5.45x39mm"
+msgstr ""
+
+msgctxt "desc/squad/squad1b_reb"
+msgid "Reservists (Motorized)"
+msgstr ""
+
+msgctxt "desc/squad/squad7(reb)"
+msgid "Support Team"
+msgstr ""
+
+msgctxt "desc/squad/squad8(reb)"
+msgid "Fire Team"
+msgstr ""
+
+msgctxt "desc/squad/squad9(reb)"
+msgid "AT Team"
+msgstr ""
+
+msgctxt "desc/squad/squad10(reb)"
+msgid "Sniper Team"
+msgstr ""
+
+msgctxt "desc/squad/squad11(reb)"
+msgid "Engineer Team"
+msgstr ""
+
+msgctxt "desc/entity/train_cabin"
+msgid "Train Cabin"
+msgstr ""
+
+msgctxt "desc/squad/squad12(reb)"
+msgid "Tank Crew Team"
+msgstr ""
+
+msgctxt "desc/weapon/m16a2_v1"
+msgid "M16A2"
+msgstr ""
+
+msgctxt "desc/squad/squad15(reb)"
+msgid "Heavy AP Team"
+msgstr ""
+
+msgctxt "desc/entity/ural_reb"
+msgid "Ural"
+msgstr ""
+
+msgctxt "desc/entity/fmtv"
+msgid "FMTV"
+msgstr ""
+
+msgctxt "desc/squad/squad16(reb)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/squad/squad21(reb)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/entity/humvee_mk19"
+msgid "LAC MK 19"
+msgstr ""
+
+msgctxt "desc/squad/squad22(reb)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/weapon/rgw90_v1"
+msgid "MATADOR-MP"
+msgstr ""
+
+msgctxt "desc/entity/ambulance"
+msgid "Ambulance"
+msgstr ""
+
+msgctxt "desc/entity/car_small"
+msgid "Civilian Car"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v1"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/entity/car_taxi"
+msgid "Civilian Taxi"
+msgstr ""
+
+msgctxt "desc/entity/humvee_ags_uaf"
+msgid "LAC AGS-30"
+msgstr ""
+
+msgctxt "desc/entity/rubber_raft"
+msgid "Rubber Raft"
+msgstr ""
+
+msgctxt "desc/entity/train_wagon"
+msgid "Train Wagon"
+msgstr ""
+
+msgctxt "desc/entity/train_wagon_3"
+msgid "Train Wagon"
+msgstr ""
+
+msgctxt "desc/weapon/arx160_v1"
+msgid "ARX-160"
+msgstr ""
+
+msgctxt "desc/entity/tram_cabin"
+msgid "Tram Cabin"
+msgstr ""
+
+msgctxt "desc/entity/tram_engine"
+msgid "Tram Engine"
+msgstr ""
+
+msgctxt "desc/entity/truck_trailer"
+msgid "Truck"
+msgstr ""
+
+msgctxt "desc/entity/truck_trailer_closed"
+msgid "Truck"
+msgstr ""
+
+msgctxt "desc/weapon/pkm_v1"
+msgid "PKM"
+msgstr ""
+
+msgctxt "desc/entity/truck_small"
+msgid "Small Truck"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_m60"
+msgid "Mounted M60E4"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_m60_sandbags"
+msgid "Mounted M60E4"
+msgstr ""
+
+msgctxt "desc/entity/humvee_m240"
+msgid "LAC M240"
+msgstr ""
+
+msgctxt "desc/ammo/ags30"
+msgid "30mm Grenade"
+msgstr ""
+
+msgctxt "desc/entity/ural_ammo_uaf"
+msgid "Ural Ammo"
+msgstr ""
+
+msgctxt "desc/weapon/g22_v1"
+msgid "G22"
+msgstr ""
+
+msgctxt "desc/entity/t-80bv_reb"
+msgid "T-80BV"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v2b"
+msgid "GSh-18"
+msgstr ""
+
+msgctxt "desc/entity/humvee_tow"
+msgid "LAC TOW"
+msgstr ""
+
+msgctxt "desc/entity/matv_m240"
+msgid "MATV M240"
+msgstr ""
+
+msgctxt "desc/entity/fmtv_ammo"
+msgid "FMTV Ammo"
+msgstr ""
+
+msgctxt "desc/entity/stryker_m2hb"
+msgid "M1126 Stryker ICV"
+msgstr ""
+
+msgctxt "desc/weapon/135mm_9m113m"
+msgid "135mm 9M113 Konkurs"
+msgstr ""
+
+msgctxt "desc/entity/stryker_mk19"
+msgid "M1126 Stryker ICV MK 19"
+msgstr ""
+
+msgctxt "desc/entity/m1a2_abrams"
+msgid "M1A2 Abrams"
+msgstr ""
+
+msgctxt "desc/weapon/g36a3_v4"
+msgid "G36A3"
+msgstr ""
+
+msgctxt "desc/entity/a10-warthog"
+msgid "A-10 Thunderbolt II"
+msgstr ""
+
+msgctxt "desc/ammo/bullet25 fg"
+msgid "25mm HE"
+msgstr ""
+
+msgctxt "desc/entity/uh-60m_blackhawk"
+msgid "UH-60 Black Hawk"
+msgstr ""
+
+msgctxt "desc/weapon/g36a3_v3"
+msgid "G36A3"
+msgstr ""
+
+msgctxt "desc/entity/uh-60m_blackhawk_mg"
+msgid "UH-60 Black Hawk Heavy"
+msgstr ""
+
+msgctxt "desc/entity/ah-64_apache"
+msgid "AH-64 Apache"
+msgstr ""
+
+msgctxt "desc/entity/m252_mortar"
+msgid "M252"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_m2"
+msgid "Mounted M2HB"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_m2_sandbags"
+msgid "Mounted M2HB"
+msgstr ""
+
+msgctxt "desc/entity/technical_zpu"
+msgid "Technical ZPU"
+msgstr ""
+
+msgctxt "desc/weapon/mp5_v1"
+msgid "MP5K-PDW"
+msgstr ""
+
+msgctxt "desc/weapon/m249_v1"
+msgid "M249"
+msgstr ""
+
+msgctxt "desc/entity/btr-80"
+msgid "BTR-80"
+msgstr ""
+
+msgctxt "desc/weapon/m77_v1"
+msgid "M77 B1"
+msgstr ""
+
+msgctxt "desc/weapon/aks74_v1"
+msgid "AKS-74"
+msgstr ""
+
+msgctxt "desc/entity/btr-82a"
+msgid "BTR-82A"
+msgstr ""
+
+msgctxt "desc/entity/bmp2"
+msgid "BMP-2"
+msgstr ""
+
+msgctxt "desc/entity/t-62"
+msgid "T-62"
+msgstr ""
+
+msgctxt "desc/entity/t-80bv"
+msgid "T-80BV"
+msgstr ""
+
+msgctxt "desc/weapon/fn_fal_v2"
+msgid "FAL"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17"
+msgid "Mil Mi-17"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35"
+msgid "Mil Mi-35"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_mg_reb"
+msgid "Mil Mi-17 Heavy"
+msgstr ""
+
+msgctxt "desc/entity/zpu2"
+msgid "ZPU 2"
+msgstr ""
+
+msgctxt "desc/entity/humvee_hmg_uaf"
+msgid "LAC NSVT"
+msgstr ""
+
+msgctxt "desc/entity/acv-15_tow"
+msgid "ACV-15 TOW"
+msgstr ""
+
+msgctxt "desc/entity/bmp2_uaf"
+msgid "BMP-2"
+msgstr ""
+
+msgctxt "desc/entity/bmp3_uaf"
+msgid "BMP-3"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v2"
+msgid "OKC-3S Bayonet"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_mg_uaf"
+msgid "Mil Mi-17 Heavy"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi35_uaf"
+msgid "Mil Mi-35"
+msgstr ""
+
+msgctxt "desc/entity/su-25k_uaf"
+msgid "SU-25K"
+msgstr ""
+
+msgctxt "desc/entity/technical_grad_reb"
+msgid "Technical Grad-P"
+msgstr ""
+
+msgctxt "desc/entity/2b14_mortar_uaf"
+msgid "2B14 Podnos"
+msgstr ""
+
+msgctxt "desc/entity/technical_lmg_reb"
+msgid "Technical M60E4"
+msgstr ""
+
+msgctxt "desc/entity/atf_dingo_gmw"
+msgid "ATF Dingo GMW"
+msgstr ""
+
+msgctxt "desc/entity/ural_ammo_reb"
+msgid "Ural Ammo"
+msgstr ""
+
+msgctxt "desc/entity/btr-82a_reb"
+msgid "BTR-82A"
+msgstr ""
+
+msgctxt "desc/entity/t-72b1"
+msgid "T-72B1"
+msgstr ""
+
+msgctxt "desc/entity/t-80u_reb"
+msgid "T-80U"
+msgstr ""
+
+msgctxt "desc/entity/btrt"
+msgid "BTR-T"
+msgstr ""
+
+msgctxt "desc/entity/su-25k_reb"
+msgid "SU-25K"
+msgstr ""
+
+msgctxt "desc/entity/brdm"
+msgid "BRDM-2M"
+msgstr ""
+
+msgctxt "desc/entity/2b14_mortar_reb"
+msgid "2B14 Podnos"
+msgstr ""
+
+msgctxt "desc/entity/atf_dingo_m2hb"
+msgid "ATF Dingo M2HB"
+msgstr ""
+
+msgctxt "desc/entity/zetros"
+msgid "Zetros"
+msgstr ""
+
+msgctxt "desc/weapon/ar70_v1"
+msgid "AR70"
+msgstr ""
+
+msgctxt "desc/entity/gtk_boxer_gmw"
+msgid "GTK Boxer GMW"
+msgstr ""
+
+msgctxt "desc/entity/marder"
+msgid "SPz Marder 1A3"
+msgstr ""
+
+msgctxt "desc/entity/nh90"
+msgid "NH90"
+msgstr ""
+
+msgctxt "desc/weapon/125mm_2a46m-1"
+msgid "125mm 2A46M-1"
+msgstr ""
+
+msgctxt "desc/entity/nh90_mg"
+msgid "NH90 Heavy"
+msgstr ""
+
+msgctxt "desc/weapon/g36a2_v1"
+msgid "G36A2"
+msgstr ""
+
+msgctxt "desc/ammo/bullet105 fg"
+msgid "105mm HE"
+msgstr ""
+
+msgctxt "desc/entity/tiger_heavy"
+msgid "Tiger Heavy"
+msgstr ""
+
+msgctxt "desc/entity/tornado_ids"
+msgid "Tornado IDS"
+msgstr ""
+
+msgctxt "desc/entity/gaz2975a_pkp"
+msgid "GAZ Tigr PKP"
+msgstr ""
+
+msgctxt "desc/entity/kamaz_ammo"
+msgid "KamAZ Ammo"
+msgstr ""
+
+msgctxt "desc/entity/brdm_konkurs"
+msgid "BRDM-2M Konkurs"
+msgstr ""
+
+msgctxt "desc/entity/btr-82a_rus"
+msgid "BTR-82A"
+msgstr ""
+
+msgctxt "desc/weapon/mp7_v1"
+msgid "MP7"
+msgstr ""
+
+msgctxt "desc/entity/t-72b3"
+msgid "T-72B3"
+msgstr ""
+
+msgctxt "desc/ammo/fg"
+msgid "High-Explosive"
+msgstr ""
+
+msgctxt "desc/ammo/9x39"
+msgid "9x39mm"
+msgstr ""
+
+msgctxt "desc/ammo/atgm"
+msgid "Anti-Tank Guided Missile"
+msgstr ""
+
+msgctxt "desc/ammo/heat"
+msgid "High-Explosive Anti-Tank"
+msgstr ""
+
+msgctxt "desc/ammo/rpg7"
+msgid "RPG-7 HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/rpg22"
+msgid "RPG-22 HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/rpg29"
+msgid "RPG-29 HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/at4cs"
+msgid "AT-4 CS HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/panzerfaust"
+msgid "Panzerfaust 3 HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/rgw90"
+msgid "MATADOR-MP HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/4x30"
+msgid "4.6x30mm"
+msgstr ""
+
+msgctxt "desc/ammo/5x45"
+msgid "5.56x45mm"
+msgstr ""
+
+msgctxt "desc/ammo/bullet15"
+msgid "14.5mm AP"
+msgstr ""
+
+msgctxt "desc/stuff/bullet15"
+msgid "14.5x114mm"
+msgstr ""
+
+msgctxt "desc/ammo/7x39"
+msgid "7.62x39mm"
+msgstr ""
+
+msgctxt "desc/ammo/9x18"
+msgid "9x18mm"
+msgstr ""
+
+msgctxt "desc/ammo/11x23"
+msgid "11.43x23mm"
+msgstr ""
+
+msgctxt "desc/ammo/12x99"
+msgid "12.7x99mm"
+msgstr ""
+
+msgctxt "desc/ammo/12x108"
+msgid "12.7x108mm"
+msgstr ""
+
+msgctxt "desc/stuff/skirmish_smoke"
+msgid "Skirmish Smoke"
+msgstr ""
+
+msgctxt "desc/ammo/40x46"
+msgid "40mm Grenade"
+msgstr ""
+
+msgctxt "desc/ammo/81mm_mortar fg"
+msgid "81mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/81mm_mortar sm"
+msgid "81mm Smoke"
+msgstr ""
+
+msgctxt "desc/ammo/bullet25 ap"
+msgid "25mm AP"
+msgstr ""
+
+msgctxt "desc/fauna/pig"
+msgid "Pig"
+msgstr ""
+
+msgctxt "desc/ammo/bullet30 ap"
+msgid "30mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/bullet30 fg"
+msgid "30mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet70 fg"
+msgid "70mm M151 Hydra"
+msgstr ""
+
+msgctxt "desc/ammo/bullet73 fg"
+msgid "73mm HE"
+msgstr ""
+
+msgctxt "desc/weapon/pkmt_v1"
+msgid "PKMT"
+msgstr ""
+
+msgctxt "desc/ammo/bullet73 heat"
+msgid "73mm HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/bullet80 fg"
+msgid "80mm S-8D"
+msgstr ""
+
+msgctxt "desc/ammo/bullet100 atgm"
+msgid "100mm 9M117 Bastion"
+msgstr ""
+
+msgctxt "desc/ammo/bullet178 atgm"
+msgid "178mm AGM-114 Hellfire"
+msgstr ""
+
+msgctxt "desc/ammo/bullet105 ap"
+msgid "105mm APFSDS"
+msgstr ""
+
+msgctxt "desc/weapon/mg5_v1"
+msgid "MG5"
+msgstr ""
+
+msgctxt "desc/ammo/bullet115 ap"
+msgid "115mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/bullet115 fg"
+msgid "115mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet115 heat"
+msgid "115mm HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/bullet120 heat"
+msgid "120mm HEAT"
+msgstr ""
+
+msgctxt "desc/ammo/bullet120 fg"
+msgid "120mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet125 fg"
+msgid "125mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet125 atgm"
+msgid "125mm 9M119M Refleks"
+msgstr ""
+
+msgctxt "desc/ammo/bullet130 atgm"
+msgid "130mm 9M114 Kokon"
+msgstr ""
+
+msgctxt "desc/ammo/bullet135 atgm"
+msgid "135mm 9M113 Konkurs"
+msgstr ""
+
+msgctxt "desc/ammo/bullet152 atgm"
+msgid "152mm BGM-71 TOW"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_main"
+msgid "<f(arial_hq)><c(%1%)>Machine-Gun</c>"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_aa"
+msgid "<f(arial_hq)><c(%1%)>Anti-Aircraft</c>"
+msgstr ""
+
+msgctxt "desc/weapon/bizon_v1"
+msgid "Bizon"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_hull"
+msgid "<f(arial_hq)><c(%1%)>Hull</c>"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_right"
+msgid "<f(arial_hq)><c(%1%)>Right</c>"
+msgstr ""
+
+msgctxt "desc/weapon/type/mgun_left"
+msgid "<f(arial_hq)><c(%1%)>Left</c>"
+msgstr ""
+
+msgctxt "desc/weapon/15mm_kpvt"
+msgid "14.5mm KPVT"
+msgstr ""
+
+msgctxt "desc/weapon/15mm_kpvt_x2"
+msgid "14.5mm KPVT"
+msgstr ""
+
+msgctxt "desc/weapon/25mm_m242"
+msgid "25mm M242"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_2a42"
+msgid "30mm 2A42"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_2a72"
+msgid "30mm 2A72"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_m230"
+msgid "30mm M230 Chain Gun"
+msgstr ""
+
+msgctxt "desc/weapon/70mm_hydra_x38"
+msgid "70mm M151 Hydra"
+msgstr ""
+
+msgctxt "desc/weapon/73mm_2a28"
+msgid "73mm 2A28 Grom"
+msgstr ""
+
+msgctxt "desc/weapon/aks74_v3"
+msgid "AKS-74"
+msgstr ""
+
+msgctxt "desc/weapon/80mm_s8_x40"
+msgid "80mm S-8D"
+msgstr ""
+
+msgctxt "desc/weapon/100mm_2a70"
+msgid "100mm 2A70"
+msgstr ""
+
+msgctxt "desc/weapon/105mm_m68a2"
+msgid "105mm M68A2"
+msgstr ""
+
+msgctxt "desc/weapon/125mm_2a46m-4"
+msgid "125mm 2A46M-4"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_bgm-71"
+msgid "152mm BGM-71 TOW"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v3c"
+msgid "P12"
+msgstr ""
+
+msgctxt "desc/weapon/178mm_hellfire_x8"
+msgid "178mm AGM-114 Hellfire"
+msgstr ""
+
+msgctxt "desc/weapon/ags30_v1"
+msgid "AGS-30"
+msgstr ""
+
+msgctxt "desc/weapon/aks74_v2"
+msgid "AKS-74"
+msgstr ""
+
+msgctxt "desc/weapon/aks74u_v1"
+msgid "AKS-74U"
+msgstr ""
+
+msgctxt "desc/weapon/ak-74m_v1"
+msgid "AK-74M"
+msgstr ""
+
+msgctxt "desc/weapon/ak-74m_v2"
+msgid "AK-74M"
+msgstr ""
+
+msgctxt "desc/weapon/an-94_v2"
+msgid "AN-94"
+msgstr ""
+
+msgctxt "desc/weapon/m203a2_v1"
+msgid "M203A2"
+msgstr ""
+
+msgctxt "desc/weapon/an-94_v3"
+msgid "AN-94"
+msgstr ""
+
+msgctxt "desc/weapon/ar70_v2"
+msgid "AR70"
+msgstr ""
+
+msgctxt "desc/weapon/as_val_v1"
+msgid "AS VAL"
+msgstr ""
+
+msgctxt "desc/weapon/bekas-12m_v1"
+msgid "Bekas-12M"
+msgstr ""
+
+msgctxt "desc/weapon/fn_scar_v2"
+msgid "SCAR-H"
+msgstr ""
+
+msgctxt "desc/weapon/g28_v1"
+msgid "G28"
+msgstr ""
+
+msgctxt "desc/weapon/g36a3_v1"
+msgid "G36A3"
+msgstr ""
+
+msgctxt "desc/weapon/g36a3_v2"
+msgid "G36A3"
+msgstr ""
+
+msgctxt "desc/fauna/seagull"
+msgid "Seagull"
+msgstr ""
+
+msgctxt "desc/weapon/g36ka4_v1"
+msgid "G36KA4"
+msgstr ""
+
+msgctxt "desc/weapon/g36ka4_v3"
+msgid "G36KA4"
+msgstr ""
+
+msgctxt "desc/weapon/g3a3_v1"
+msgid "G3A3"
+msgstr ""
+
+msgctxt "desc/weapon/g3a4_v1"
+msgid "G3A4"
+msgstr ""
+
+msgctxt "desc/weapon/g3a7_v1"
+msgid "G3A7"
+msgstr ""
+
+msgctxt "desc/weapon/g3a7_v1b"
+msgid "G3A7"
+msgstr ""
+
+msgctxt "desc/weapon/gmw_v1"
+msgid "GMW"
+msgstr ""
+
+msgctxt "desc/weapon/m2hb_v1"
+msgid "M2HB"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v1b"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/stuff/flare"
+msgid "Flare Shell"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v2"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v2b"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_v4"
+msgid "M4A1"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1cqbr_v3"
+msgid "M4A1 CQBR"
+msgstr ""
+
+msgctxt "desc/weapon/m16a4_v1"
+msgid "M16A4"
+msgstr ""
+
+msgctxt "desc/stuff/filling_empty"
+msgid "empty"
+msgstr ""
+
+msgctxt "desc/stuff/molotov_coctail"
+msgid "Molotov Cocktail"
+msgstr ""
+
+msgctxt "desc/weapon/m24sws_v1"
+msgid "M24 SWS"
+msgstr ""
+
+msgctxt "desc/weapon/m27iar_v1"
+msgid "M27 IAR"
+msgstr ""
+
+msgctxt "desc/weapon/m39emr_v1"
+msgid "M39 EMR"
+msgstr ""
+
+msgctxt "desc/weapon/m60_v1"
+msgid "M60E4"
+msgstr ""
+
+msgctxt "desc/weapon/m60b_v1"
+msgid "M60E4"
+msgstr ""
+
+msgctxt "desc/weapon/m72law_v1"
+msgid "M72 LAW"
+msgstr ""
+
+msgctxt "desc/weapon/m77_v1b"
+msgid "M77 B1"
+msgstr ""
+
+msgctxt "desc/weapon/m107a1_v1"
+msgid "M107A1"
+msgstr ""
+
+msgctxt "desc/weapon/m134d_v1"
+msgid "M134D Minigun"
+msgstr ""
+
+msgctxt "desc/weapon/m240_v1"
+msgid "M240"
+msgstr ""
+
+msgctxt "desc/weapon/m240b_v1"
+msgid "M240B"
+msgstr ""
+
+msgctxt "desc/weapon/m1014_v1"
+msgid "M1014"
+msgstr ""
+
+msgctxt "desc/weapon/mg3_v1"
+msgid "MG3"
+msgstr ""
+
+msgctxt "desc/weapon/mg3_v1b"
+msgid "MG3"
+msgstr ""
+
+msgctxt "desc/weapon/mk19_v1"
+msgid "MK 19"
+msgstr ""
+
+msgctxt "desc/weapon/mk19_v2"
+msgid "MK 19"
+msgstr ""
+
+msgctxt "desc/weapon/mp5_v1b"
+msgid "MP5SD6"
+msgstr ""
+
+msgctxt "desc/weapon/mp7_v2"
+msgid "MP7"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v1b"
+msgid "PM Makarov"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v1c"
+msgid "P8"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v2"
+msgid "M-45 MEUSOC"
+msgstr ""
+
+msgctxt "desc/weapon/pistol_v2c"
+msgid "P8"
+msgstr ""
+
+msgctxt "desc/weapon/rpg22_v1"
+msgid "RPG-22"
+msgstr ""
+
+msgctxt "desc/weapon/rpg29_v1"
+msgid "RPG-29 Vampir"
+msgstr ""
+
+msgctxt "desc/weapon/rpk74m_v1"
+msgid "RPK-74M"
+msgstr ""
+
+msgctxt "desc/weapon/skorpion_v1"
+msgid "Skorpion"
+msgstr ""
+
+msgctxt "desc/weapon/svd_v1"
+msgid "SVD Dragunov"
+msgstr ""
+
+msgctxt "desc/weapon/ump45_v1"
+msgid "UMP45"
+msgstr ""
+
+msgctxt "desc/weapon/ump45_v1b"
+msgid "UMP45"
+msgstr ""
+
+msgctxt "desc/weapon/binocular"
+msgid "Binocular"
+msgstr ""
+
+msgctxt "desc/weapon/81mm_mortar"
+msgid "M252"
+msgstr ""
+
+msgctxt "desc/container/box"
+msgid "Box"
+msgstr ""
+
+msgctxt "desc/stuff/anm8"
+msgid "AN-M8 Smoke"
+msgstr ""
+
+msgctxt "desc/stuff/rdg-m"
+msgid "RDG-M Smoke"
+msgstr ""
+
+msgctxt "desc/stuff/m84"
+msgid "M84 Flashbang"
+msgstr ""
+
+msgctxt "desc/stuff/decoy"
+msgid "Smoke Screen Shell"
+msgstr ""
+
+msgctxt "desc/stuff/smoke_paradrop_ammo"
+msgid "Paradrop Smoke"
+msgstr ""
+
+msgctxt "desc/stuff/smoke_paradrop_ammo_heavy"
+msgid "Paradrop Smoke Heavy"
+msgstr ""
+
+msgctxt "desc/stuff/bandage"
+msgid "First Aid"
+msgstr ""
+
+msgctxt "desc/stuff/steak"
+msgid "Meat"
+msgstr ""
+
+msgctxt "desc/stuff/c4"
+msgid "Composition C-4"
+msgstr ""
+
+msgctxt "desc/stuff/claymore mine"
+msgid "M18A1 Claymore"
+msgstr ""
+
+msgctxt "desc/stuff/dm51"
+msgid "DM51"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v1"
+msgid "M9 Bayonet"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v1b"
+msgid "AKM Type II"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v2b"
+msgid "Shaitan"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v3"
+msgid "M11 Bayonet"
+msgstr ""
+
+msgctxt "desc/stuff/knife_v4b"
+msgid "Ghurka"
+msgstr ""
+
+msgctxt "desc/stuff/human"
+msgid "Human Body"
+msgstr ""
+
+msgctxt "desc/stuff/chicken"
+msgid "Chicken"
+msgstr ""
+
+msgctxt "desc/stuff/case"
+msgid "Secret Documents"
+msgstr ""
+
+msgctxt "desc/stuff/binocular"
+msgid "Binoculars"
+msgstr ""
+
+msgctxt "desc/stuff/petrol"
+msgid "Petrol"
+msgstr ""
+
+msgctxt "desc/stuff/liquid"
+msgid "Liquid"
+msgstr ""
+
+msgctxt "desc/stuff/water"
+msgid "Water"
+msgstr ""
+
+msgctxt "desc/fauna/camel"
+msgid "Camel"
+msgstr ""
+
+msgctxt "desc/fauna/carp"
+msgid "Carp"
+msgstr ""
+
+msgctxt "desc/fauna/chicken"
+msgid "Chicken"
+msgstr ""
+
+msgctxt "desc/fauna/cow"
+msgid "Cow"
+msgstr ""
+
+msgctxt "desc/fauna/crab"
+msgid "Crab"
+msgstr ""
+
+msgctxt "desc/fauna/fish"
+msgid "Fish"
+msgstr ""
+
+msgctxt "desc/fauna/horse"
+msgid "Horse"
+msgstr ""
+
+msgctxt "desc/fauna/red_deer_hind"
+msgid "Red Deer Hind"
+msgstr ""
+
+msgctxt "desc/ammo/bullet12"
+msgid "12.7mm AP"
+msgstr ""
+
+msgctxt "desc/stuff/bullet12"
+msgid "12.7x108mm"
+msgstr ""
+
+msgctxt "desc/ammo/bullet12b"
+msgid "12.7mm AP"
+msgstr ""
+
+msgctxt "desc/stuff/bullet12b"
+msgid "12.7x99mm"
+msgstr ""
+
+msgctxt "desc/ammo/122mm_9m22u"
+msgid "122mm 9M22U FRAG-HE"
+msgstr ""
+
+msgctxt "desc/weapon/122mm_grad-p"
+msgid "122mm Grad-P"
+msgstr ""
+
+msgctxt "desc/ammo/bullet125b atgm"
+msgid "125mm 9M14 Malyutka"
+msgstr ""
+
+msgctxt "desc/entity/9m133_kornet"
+msgid "AT-14 Spriggan"
+msgstr ""
+
+msgctxt "desc/entity/9m133_kornet_m"
+msgid "AT-14 Spriggan"
+msgstr ""
+
+msgctxt "desc/entity/9m133_kornet_sandbags"
+msgid "AT-14 Spriggan"
+msgstr ""
+
+msgctxt "desc/entity/at5_spandrel"
+msgid "AT-5 Spandrel"
+msgstr ""
+
+msgctxt "desc/entity/at5_spandrel_m"
+msgid "AT-5 Spandrel"
+msgstr ""
+
+msgctxt "desc/entity/stretcher"
+msgid "Stretcher"
+msgstr ""
+
+msgctxt "desc/entity/stretcher_wounded_soldier"
+msgid "Wounded soldier"
+msgstr ""
+
+msgctxt "desc/weapon/ump45_v2b"
+msgid "UMP45"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t2_07"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/weapon/135mm_9m113m_x1"
+msgid "135mm 9M113 Konkurs"
+msgstr ""
+
+msgctxt "desc/weapon/135mm_9m113m_x2"
+msgid "135mm 9M113 Konkurs"
+msgstr ""
+
+msgctxt "desc/weapon/135mm_9m113m_x5"
+msgid "135mm 9M113 Konkurs"
+msgstr ""
+
+msgctxt "desc/weapon/25mm_kba"
+msgid "25mm KBA"
+msgstr ""
+
+msgctxt "desc/ammo/bullet130b atgm"
+msgid "130mm 9M127 Vikhr"
+msgstr ""
+
+msgctxt "desc/weapon/130mm_scallion_x12"
+msgid "130mm 9M127 Vikhr"
+msgstr ""
+
+msgctxt "desc/entity/t-90m"
+msgid "T-90M"
+msgstr ""
+
+msgctxt "desc/entity/btr-90"
+msgid "BTR-90"
+msgstr ""
+
+msgctxt "desc/entity/ka-52"
+msgid "Kamov Ka-52"
+msgstr ""
+
+msgctxt "desc/entity/ka-52_heavy"
+msgid "Kamov Ka-52 Heavy"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_rus"
+msgid "Mil Mi-8MT"
+msgstr ""
+
+msgctxt "desc/entity/mil_mi17_mg_rus"
+msgid "Mil Mi-8MT Heavy"
+msgstr ""
+
+msgctxt "desc/weapon/125mm_9m14"
+msgid "125mm 9M14 Malyutka"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/t5_04"
+msgid "Rebel Special Op"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_mag"
+msgid "Mounted MAG"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_mag_sandbags"
+msgid "Mounted MAG"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_mg3"
+msgid "Mounted MG3"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_mg3_sandbags"
+msgid "Mounted MG3"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_kord_rus"
+msgid "Mounted Kord 6P50"
+msgstr ""
+
+msgctxt "desc/entity/heavy_mg_kord_sandbags_rus"
+msgid "Mounted Kord 6P50"
+msgstr ""
+
+msgctxt "desc/entity/zpu2_uaf"
+msgid "ZPU 2"
+msgstr ""
+
+msgctxt "desc/entity/2b11_mortar"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/2b11_mortar_reb"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/2b11_mortar_m_reb"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/2b11_mortar_uaf"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/2b11_mortar_rus"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/m120_mortar"
+msgid "M120"
+msgstr ""
+
+msgctxt "desc/entity/m120_mortar_ger"
+msgid "M120"
+msgstr ""
+
+msgctxt "desc/entity/bgm71_tow"
+msgid "BGM-71 TOW"
+msgstr ""
+
+msgctxt "desc/entity/bgm71_tow_sandbags"
+msgid "BGM-71 TOW"
+msgstr ""
+
+msgctxt "desc/entity/m252_mortar_ger"
+msgid "M252"
+msgstr ""
+
+msgctxt "desc/entity/2b14_mortar_rus"
+msgid "2B14 Podnos"
+msgstr ""
+
+msgctxt "desc/ammo/120mm_m120_mortar fg"
+msgid "120mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/120mm_2b11_mortar fg"
+msgid "120mm HE"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_m120_mortar"
+msgid "M120"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_2b11_mortar"
+msgid "2B11 Sani"
+msgstr ""
+
+msgctxt "desc/entity/milan_er"
+msgid "MILAN ER"
+msgstr ""
+
+msgctxt "desc/entity/milan_er_m"
+msgid "MILAN ER"
+msgstr ""
+
+msgctxt "desc/weapon/115mm_milan_er"
+msgid "115mm MILAN ER"
+msgstr ""
+
+msgctxt "desc/ammo/bullet115 atgm"
+msgid "115mm MILAN ER"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_9m133"
+msgid "152mm 9m133 Kornet"
+msgstr ""
+
+msgctxt "desc/ammo/bullet152b atgm"
+msgid "152mm 9m133 Kornet"
+msgstr ""
+
+msgctxt "desc/weapon/130mm_spike-lr"
+msgid "130mm SPIKE-LR"
+msgstr ""
+
+msgctxt "desc/weapon/130mm_spike-lr_x2"
+msgid "130mm SPIKE-LR"
+msgstr ""
+
+msgctxt "desc/ammo/bullet130c atgm"
+msgid "130mm SPIKE-LR"
+msgstr ""
+
+msgctxt "desc/weapon/12mm_hmp400"
+msgid "12mm HMP 400 LCC"
+msgstr ""
+
+msgctxt "desc/weapon/30mm_mk30-2_abm"
+msgid "30mm MK30-2/ABM"
+msgstr ""
+
+msgctxt "desc/weapon/20mm_mk20_rh-202"
+msgid "20mm MK20 RH202"
+msgstr ""
+
+msgctxt "desc/ammo/bullet20 ap"
+msgid "20mm AP"
+msgstr ""
+
+msgctxt "desc/ammo/bullet20 fg"
+msgid "20mm HE"
+msgstr ""
+
+msgctxt "desc/weapon/23mm_gsh-23"
+msgid "23mm GSh-23V"
+msgstr ""
+
+msgctxt "desc/weapon/12mm_yak-b"
+msgid "12mm YakB-12.7"
+msgstr ""
+
+msgctxt "desc/ammo/bullet12 fg"
+msgid "12mm HE"
+msgstr ""
+
+msgctxt "desc/weapon/pkp_v1"
+msgid "PKP Pecheneg"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_rh120_l44"
+msgid "120mm RH120 L44"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_rh120_l55"
+msgid "120mm RH120 L55"
+msgstr ""
+
+msgctxt "desc/weapon/125mm_2a46m-5"
+msgid "125mm 2A46M-5"
+msgstr ""
+
+msgctxt "desc/weapon/125mm_2a82-1m"
+msgid "125mm 2A82-1M"
+msgstr ""
+
+msgctxt "desc/stuff/box_small"
+msgid "Ammunition box"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2b_01"
+msgid "German Elite Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t2b_02"
+msgid "German Elite Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/t4_04"
+msgid "German Fallschirmjäger"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_01"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_02"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_03"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_04"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_05"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_06"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_07"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_medic"
+msgid "Russian Soldier Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t2_sq"
+msgid "Russian Soldier Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_01"
+msgid "Russian VDV"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_02"
+msgid "Russian VDV"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_03"
+msgid "Russian VDV"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_04"
+msgid "Russian VDV"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_medic"
+msgid "Russian VDV Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t3_sq"
+msgid "Russian VDV Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t4_01"
+msgid "Russian Gvardiya"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t4_02"
+msgid "Russian Gvardiya"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t4_03"
+msgid "Russian Gvardiya"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t4_sq"
+msgid "Russian Gvardiya Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t5_01"
+msgid "Russian Spetsnaz"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t5_02"
+msgid "Russian Spetsnaz"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t5_03"
+msgid "Russian Spetsnaz"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/t5_sq"
+msgid "Russian Spetsnaz Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_at_01"
+msgid "Russian AT Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_engineer_01"
+msgid "Russian Engineer"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_pilot_01"
+msgid "Russian Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_pilot_02"
+msgid "Russian Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_sniper_01"
+msgid "Russian Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_sniper_02"
+msgid "Russian Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_sniper_03"
+msgid "Russian Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_sniper_04"
+msgid "Russian Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tx_tankman_01"
+msgid "Russian Tankman"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_assault"
+msgid "Russian Assault Storm"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_assault2"
+msgid "Russian Assault Recon"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_heavy_assault"
+msgid "Russian Heavy Assault"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_marksman"
+msgid "Russian Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_mg"
+msgid "Russian Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_scout"
+msgid "Russian Scout"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_shotgunner"
+msgid "Russian Shotgunner"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_sniper"
+msgid "Russian Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/th_specop"
+msgid "Russian SpecOp"
+msgstr ""
+
+msgctxt "desc/weapon/ak-103m_v1"
+msgid "AK-103M"
+msgstr ""
+
+msgctxt "desc/weapon/ak-104m_v1"
+msgid "AK-104M"
+msgstr ""
+
+msgctxt "desc/weapon/ak-105m_v1"
+msgid "AK-105M"
+msgstr ""
+
+msgctxt "desc/weapon/rpk74m_v1b"
+msgid "RPK-74M"
+msgstr ""
+
+msgctxt "desc/weapon/vks_v1"
+msgid "VKS"
+msgstr ""
+
+msgctxt "desc/weapon/asvk-m_v1"
+msgid "ASVK-M"
+msgstr ""
+
+msgctxt "desc/weapon/gp25_v1"
+msgid "AKS-74 GP-25"
+msgstr ""
+
+msgctxt "desc/weapon/ak-12_v1"
+msgid "AK-12"
+msgstr ""
+
+msgctxt "desc/weapon/ak-15_v1"
+msgid "AK-15"
+msgstr ""
+
+msgctxt "desc/weapon/ak-15_v1b"
+msgid "AK-15"
+msgstr ""
+
+msgctxt "desc/weapon/ak-15_v2"
+msgid "AK-15"
+msgstr ""
+
+msgctxt "desc/weapon/ak-74m_v3"
+msgid "AK-74M"
+msgstr ""
+
+msgctxt "desc/weapon/aks74_v1b"
+msgid "AKS-74"
+msgstr ""
+
+msgctxt "desc/weapon/aks74_v2b"
+msgid "AKS-74"
+msgstr ""
+
+msgctxt "desc/weapon/aks74u_v1b"
+msgid "AKS-74U"
+msgstr ""
+
+msgctxt "desc/weapon/rpk16_v1"
+msgid "RPK-16"
+msgstr ""
+
+msgctxt "desc/weapon/vityaz-sn_v1"
+msgid "Vityaz-SN"
+msgstr ""
+
+msgctxt "desc/weapon/vityaz-sn_v2"
+msgid "Vityaz-SN"
+msgstr ""
+
+msgctxt "desc/weapon/vityaz-sn_v3"
+msgid "Vityaz-SN"
+msgstr ""
+
+msgctxt "desc/weapon/vss_vintorez_v1"
+msgid "VSS Vintorez"
+msgstr ""
+
+msgctxt "desc/ammo/12x55"
+msgid "12.7x55mm"
+msgstr ""
+
+msgctxt "desc/squad/squad16(ger)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/squad/squad17(ger)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/squad/squad18(ger)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad19(ger)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/squad/squad20(ger)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad21(ger)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/squad/squad22(ger)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/squad/squad23(ger)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad24(ger)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/squad/squad16(rus)"
+msgid "Assault Storm"
+msgstr ""
+
+msgctxt "desc/squad/squad17(rus)"
+msgid "Assault Recon"
+msgstr ""
+
+msgctxt "desc/squad/squad18(rus)"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/squad/squad19(rus)"
+msgid "Scout"
+msgstr ""
+
+msgctxt "desc/squad/squad20(rus)"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/squad/squad21(rus)"
+msgid "Shotgunner"
+msgstr ""
+
+msgctxt "desc/squad/squad22(rus)"
+msgid "SpecOp"
+msgstr ""
+
+msgctxt "desc/squad/squad23(rus)"
+msgid "Heavy Assault"
+msgstr ""
+
+msgctxt "desc/squad/squad24(rus)"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tx_engineer_02"
+msgid "German Elite Engineer"
+msgstr ""
+
+msgctxt "desc/weapon/svdk_v1"
+msgid "SVDK Dragunov"
+msgstr ""
+
+msgctxt "desc/ammo/9x64"
+msgid "9x64mm"
+msgstr ""
+
+msgctxt "desc/ammo/bullet23 fg"
+msgid "23mm HE"
+msgstr ""
+
+msgctxt "desc/entity/krh40_mortar"
+msgid "Krh 40"
+msgstr ""
+
+msgctxt "desc/entity/krh40_mortar_m"
+msgid "Krh 40"
+msgstr ""
+
+msgctxt "desc/weapon/120mm_krh40_mortar"
+msgid "Krh 40"
+msgstr ""
+
+msgctxt "desc/ammo/120mm_krh40_mortar fg"
+msgid "120mm HE"
+msgstr ""
+
+msgctxt "desc/entity/pzh2000"
+msgid "PzH 2000A1"
+msgstr ""
+
+msgctxt "desc/weapon/155mm_l52"
+msgid "155mm L52"
+msgstr ""
+
+msgctxt "desc/ammo/bullet155 fg"
+msgid "155mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet155 sm"
+msgid "155mm SMOKE"
+msgstr ""
+
+msgctxt "desc/entity/m109_paladin"
+msgid "M109A6 Paladin"
+msgstr ""
+
+msgctxt "desc/weapon/155mm_m284"
+msgid "155mm M284"
+msgstr ""
+
+msgctxt "desc/entity/2s3_akatsia"
+msgid "2S3M2 Akatsiya"
+msgstr ""
+
+msgctxt "desc/entity/2s3_akatsia_grm"
+msgid "2S3M2 Akatsiya"
+msgstr ""
+
+msgctxt "desc/entity/2s3_akatsia_uaf"
+msgid "2S3M2 Akatsiya"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_2a33"
+msgid "152mm 2A33"
+msgstr ""
+
+msgctxt "desc/ammo/bullet152 fg"
+msgid "152mm HE"
+msgstr ""
+
+msgctxt "desc/ammo/bullet152 sm"
+msgid "152mm SMOKE"
+msgstr ""
+
+msgctxt "desc/entity/2s19_msta"
+msgid "2S19M2 Msta-SM2"
+msgstr ""
+
+msgctxt "desc/weapon/152mm_2a64"
+msgid "152mm 2A64M2"
+msgstr ""
+
+msgctxt "desc/weapon/pkt_v1"
+msgid "PKT"
+msgstr ""
+
+msgctxt "desc/ammo/vog25"
+msgid "40mm Grenade"
+msgstr ""
+
+msgctxt "desc/ammo/sm"
+msgid "Smoke Shell"
+msgstr ""
+
+msgctxt "desc/weapon/m85_v1"
+msgid "M85"
+msgstr ""
+
+msgctxt "desc/human/mp/usa/tg_main"
+msgid "U.S. Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/grm/tg_main"
+msgid "GRM Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/uaf/tg_main"
+msgid "UAF Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/reb/tg_main"
+msgid "Rebel Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/ger/tg_main"
+msgid "German Soldier"
+msgstr ""
+
+msgctxt "desc/human/mp/rus/tg_main"
+msgid "Russian Soldier"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_ger"
+msgid "Bundeswehr Joint Operations Command"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_ger_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_ger_player2"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_ger_player3"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_rus"
+msgid "Main Operations Directorate (G.O.U.)"
+msgstr ""
+
+msgctxt "desc/human/special/narrator_rus_player"
+msgid "Player"
+msgstr ""
+
+msgctxt "desc/entity/serna_class_ls"
+msgid "Serna Class"
+msgstr ""
+
+msgctxt "desc/human/special/hero_grm_abu"
+msgid "Abu al Ahmadi"
+msgstr ""
+
+msgctxt "desc/human/special/hero_grm_junayd"
+msgid "Junayd"
+msgstr ""
+
+msgctxt "desc/human/special/hero_ger_captive"
+msgid "Comm. Officer"
+msgstr ""
+
+msgctxt "desc/human/civilian/weapons_dealer"
+msgid "Weapons dealer"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_bomb_usa"
+msgid "Bomb Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_bomb_grm"
+msgid "Bomb Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_bomb_ger"
+msgid "Bomb Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_bomb_rus"
+msgid "Bomb Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_napalm_uaf"
+msgid "Napalm Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/airstrike_napalm_reb"
+msgid "Napalm Airstrike"
+msgstr ""
+
+msgctxt "desc/entity/su-25k_rus"
+msgid "SU-25K"
+msgstr ""
+
+msgctxt "desc/entity/patriot"
+msgid "MIM-104 Patriot"
+msgstr ""
+
+msgctxt "desc/weapon/m79"
+msgid "M79"
+msgstr ""
+
+msgctxt "desc/weapon/m60"
+msgid "M60"
+msgstr ""
+
+msgctxt "desc/weapon/ak-47_type3"
+msgid "AK-47"
+msgstr ""
+
+msgctxt "desc/weapon/ak-47_gp25_ob"
+msgid "GP-25"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1"
+msgid "M16"
+msgstr ""
+
+msgctxt "desc/weapon/m4a1_cqbr_kf2"
+msgid "CAR-15"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1_coltx3_kf2"
+msgid "CAR-15"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1_30r_kf2"
+msgid "M16"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1_kf2"
+msgid "M16"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1_m203_kf2"
+msgid "M203"
+msgstr ""
+
+msgctxt "desc/weapon/m16a1_m203_kf2_20rd"
+msgid "M203"
+msgstr ""
+
+msgctxt "desc/weapon/m203"
+msgid "M203"
+msgstr ""
+
+msgctxt "desc/weapon/pps-43"
+msgid "pps-43"
+msgstr ""
+
+msgctxt "desc/weapon/sks"
+msgid "sks"
+msgstr ""
+
+msgctxt "desc/weapon/m1911a1"
+msgid "Colt Pistol"
+msgstr ""
+
+msgctxt "desc/weapon/m14"
+msgid "m14"
+msgstr ""
+
+msgctxt "desc/weapon/xm21"
+msgid "m14 Scope"
+msgstr ""
+
+msgctxt "desc/weapon/m3a"
+msgid "Grease Gun"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_law_1"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_law_2"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_sac_1"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_radio_back"
+msgid "M77 Set"
+msgstr ""
+
+msgctxt "desc/stuff/ak_chest_rig"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_camo_vc_commander"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/medic_gear_chi"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/type56_gear"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/type56_gear_1"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/type56_gear_chi"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/type56_j_gear_chi"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/type56_s_gear_chi"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_flak_vest"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_ammo"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_ammo_banner"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_backpack"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/usa_gear_empty"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_nva_machinegunner"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_nva_radio"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_nva_rifleman"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_nva_rpg"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_vc_machinegunner"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_vc_radio"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_vc_rifleman"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/gear_vc_rpg"
+msgid "Gear"
+msgstr ""
+
+msgctxt "desc/stuff/helm_hat"
+msgid "Headwear"
+msgstr ""
+
+msgctxt "desc/stuff/helm_pitchcover_camo"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/helm_strawhat"
+msgid "Straw Hat"
+msgstr ""
+
+msgctxt "desc/stuff/nva_pith"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/nva_pith2"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/pla_cap"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/tankhelmet_chi"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/driverhelm"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_booniehat"
+msgid "J-Hat"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_bullets_photo"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_cigs_card"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_empty"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_helmet1"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_helmet2"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_helmet4"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_mag"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_mag_goggles"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_oils_photo"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_photo_pins"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_photo_pins_2"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/us_nam_pilot"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "desc/stuff/usa_vie_bandana"
+msgid "Bandana"
+msgstr ""
+
+msgctxt "desc/stuff/usa_vie_giglasses"
+msgid "Glasses"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-apccrew"
+msgid "Crew Man"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-lt"
+msgid "Platoon Commander"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-medic"
+msgid "Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-mg01"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-mg02"
+msgid "Machine Gunner"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-mgass"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-cpl"
+msgid "Squad 2IC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-officer"
+msgid "Officer Commanding"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-col"
+msgid "Commanding Officer"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/pilot"
+msgid "Pilot"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/usa_pilot"
+msgid "Flight Crew"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-radio"
+msgid "Radio Operator"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-m14"
+msgid "Marksman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-rifle01"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-rifle02"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-rifle03"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-rifle04"
+msgid "Grenadier"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-rifle05"
+msgid "Rifleman"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sgt"
+msgid "Squad Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-ssgt"
+msgid "Platoon Sergeant"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-rifle01"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-rifle02"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-rpg"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-rpk"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-m79"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-pkm"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nva-crew"
+msgid "NVA"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-rifle01"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-rifle02"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-rpg"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-rpk"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-pkm"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/civi1"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/civi2"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/civi3"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/civi4"
+msgid "Civilian"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-doc"
+msgid "Doc"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/nvc-grenlauncher"
+msgid "VC"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/sf_comd"
+msgid "Speacial Forces"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf0"
+msgid "SF Team Leader"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf1"
+msgid "SF Sergeant"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf2"
+msgid "SF MG"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf3"
+msgid "SF AT"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf4"
+msgid "SF Grenadier"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf5"
+msgid "SF Radio Operator"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf6"
+msgid "SF Medic"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf7"
+msgid "SF Sniper"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf8"
+msgid "ARVN SF"
+msgstr ""
+
+msgctxt "desc/human/mp/viet/us-sf9"
+msgid "ARVN Grenadier"
+msgstr ""
+
+msgctxt "desc/squad/CS41"
+msgid "41"
+msgstr ""
+
+msgctxt "desc/squad/CS41A"
+msgid "41A"
+msgstr ""
+
+msgctxt "desc/squad/CS41B"
+msgid "41B"
+msgstr ""
+
+msgctxt "desc/squad/CS41C"
+msgid "41C"
+msgstr ""
+
+msgctxt "desc/squad/CS42"
+msgid "42"
+msgstr ""
+
+msgctxt "desc/squad/CS42A"
+msgid "42A"
+msgstr ""
+
+msgctxt "desc/squad/CS42B"
+msgid "42B"
+msgstr ""
+
+msgctxt "desc/squad/CS42C"
+msgid "42C"
+msgstr ""
+
+msgctxt "desc/squad/CS43"
+msgid "43"
+msgstr ""
+
+msgctxt "desc/squad/CS43A"
+msgid "43A"
+msgstr ""
+
+msgctxt "desc/squad/CS43B"
+msgid "43B"
+msgstr ""
+
+msgctxt "desc/squad/CS43C"
+msgid "43C"
+msgstr ""
+
+msgctxt "desc/squad/CSD6"
+msgid "Officer Commanding"
+msgstr ""
+
+msgctxt "desc/squad/us-col"
+msgid "Commanding Officer"
+msgstr ""
+
+

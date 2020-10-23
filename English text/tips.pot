@@ -1,0 +1,241 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms (tips)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgctxt "tip25"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip05"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip35"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip01"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip12"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip02"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip03"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip28"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip07"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr """
+
+msgctxt "tip48"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip22"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip04"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip06"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip30"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip08"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip09"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip10"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip11"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip13"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip34"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip14"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip39"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip15"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip16"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip17"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip18"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip19"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip20"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip21"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip41"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip32"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip24"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip23"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip42"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip40"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip26"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip43"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip27"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip29"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip44"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip31"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip33"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip36"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip54"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip50"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip37"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip55"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip38"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip45"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip46"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip47"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip49"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip51"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip52"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip53"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip56"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
+
+msgctxt "tip57"
+msgid "Whilst in 3rd person view of a private soldier, there is a risk of getting locked in that view if you venture too far away from a leader"
+msgstr ""
