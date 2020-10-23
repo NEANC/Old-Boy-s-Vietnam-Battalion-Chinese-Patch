@@ -1,0 +1,18 @@
+[h1] Old Boy's Vietnam Battalion Chinese Patch [/h1]
+[b] 本MOD是[url=steamcommunity.com/sharedfiles/filedetails/?id=2172345700]Old Boy's Vietnam Battalion[/url]的汉化包 [/b]
+
+
+[h2] 主力与发布：[/h2]
+[url=steamcommunity.com/profiles/76561198088693501]Johnson Chen (主力)[/url]
+[url=github.com/NEANC/Old-Boy-s-Vietnam-Battalion-Chinese-Patch]Github仓库界面[/url]
+
+
+[h2] 如何使用 [/h2]
+[h3] 游戏内激活 [/h3]
+[code]本MOD置于母MOD的后面进行激活（该顺序不能打乱）=> 激活母MOD，后激活本MOD -> 应用	[/code]
+[h3] 游戏外覆盖文件激活 [/h3]
+[code] 将"[u] X:\Steam\steamapps\workshop\content\302670\***\localizations\ [/u]"下的[b]文件覆盖[/b]到
+"[u] X:\Steam\steamapps\workshop\content\302670\***\localizations\ [/u]"中	[/code]
+
+[h2] 许可证：[/h2]
+[url=github.com/NEANC/Old-Boy-s-Vietnam-Battalion-Chinese-Patch/blob/master/LICENSE.md]MIT License[/url]
