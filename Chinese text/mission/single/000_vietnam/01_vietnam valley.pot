@@ -13,51 +13,51 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/auto_heal_off"
-msgid "Turn Autoheal off"
+msgid "自动悬停 关"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/auto_heal_on"
-msgid "Turn Autoheal on"
+msgid "自动悬停 开"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/alpha_lc"
-msgid "Alpha Loud and Clear"
+msgid "A队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/bravo_lc"
-msgid "Bravo Loud and Clear"
+msgid "B队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/cancel"
-msgid "cancel"
+msgid "取消"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/changecomd"
-msgid "Secure 1 Platoon, you're going to switch command to 2 Platoon when they land"
+msgid "警卫1排，2排降落后将会接管你排部指挥权 " 
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/charlie_lc"
-msgid "Charlie Loud and Clear"
+msgid "B队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/civi_kill_1"
-msgid "Reports say Civilians have been killed"
+msgid "报告显示平民已阵亡" 
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/civi_kill_2"
-msgid "Civilians have been killed"
+msgid "平民已阵亡"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/comdfail"
-msgid "Stand Down, You have lost too many troops. Captain Spares is here to take over."
+msgid "停止攻击, 经损失太多兵力. 斯派尔上尉会接管你的部队." 
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/contact"
-msgid "Contact!, Contact!"
+msgid "接敌!, 接敌!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/d6_rc"
-msgid "All Call Signs, Radio Check"
+msgid "全单位注意, 无线电测试"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/date"
@@ -65,11 +65,11 @@ msgid "1969"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/firemission"
-msgid "Request Fire Mission"
+msgid "请求火力支援"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/godmode"
-msgid "GOD MODE ON"
+msgid "上 帝 模 式"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/gr52"
@@ -2801,67 +2801,67 @@ msgid "gr539799"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia"
-msgid "A soldier has been Killed in Action."
+msgid "一位士兵已阵亡." 
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia2"
-msgid "We have 2x KIA"
+msgid "二位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia3"
-msgid "We have 3x KIA"
+msgid "三位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia4"
-msgid "We have 4x KIA"
+msgid "四位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia5-6"
-msgid "We have bodies that need to return to base."
+msgid "我们有士兵残骸需要运回基地"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia7"
-msgid "We have too many KIA in the field."
+msgid "我们在战场上的损失过于惨重"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/kia9"
-msgid "The troops wont accept any further losses.  "
+msgid "军部不再接受任何进一步的伤亡  "
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/loosing_toomany"
-msgid "You are loosing too many troops!!"
+msgid "你已损失大量兵力!!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/mandown"
-msgid "Man down, man down!"
+msgid "有人倒了, 有人倒了!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/medchopper"
-msgid "Move dead to Med Chopper for replacements"
+msgid "把尸体搬运至医疗直升机以进行人员更换"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/name"
-msgid "Vietnam Valley"
+msgid "越南村庄"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/name_big"
-msgid "Vietnam Valley"
+msgid "越南村庄"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/next_pl"
-msgid "Next Platoon ETA..."
+msgid "下一排部预计抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/no_comd"
-msgid "No commanders are left on the battlefield."
+msgid "战场上已经没有战地指挥官."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_completed"
-msgid "Mission accomplished!"
+msgid "任务完成!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_failed"
-msgid "Mission failure!"
+msgid "任务失败!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/outro_start"
@@ -2869,7 +2869,7 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/place"
-msgid "Grid Square 52,77"
+msgid "网格坐标 52,77"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/story"
@@ -2877,25 +2877,25 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/task3-1plcomd "
-msgid "1 Platoon is back under your command."
+msgid "1排已交回于你指挥."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/task3-brief"
-msgid "Destroy all the AA Guns."
+msgid "摧毁所有防空机枪."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/task_1"
-msgid "Secure LZ, sweep road SE."
+msgid "确保降落区安全, 清扫东南方路段."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/task_2"
-msgid "Search and Destroy Enemy Armor."
+msgid "搜寻并摧毁地方装甲单位."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/task_3"
-msgid "Destroy AA Guns."
+msgid "摧毁防空机枪."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/01_vietnam valley/too_long"
-msgid "Time left to complete mission."
+msgid "完成任务时限."
 msgstr ""
