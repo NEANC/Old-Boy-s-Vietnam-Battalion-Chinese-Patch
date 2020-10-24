@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (04_hue_city_part2)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/alpha_lc"
+msgid "Alpha Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/auto_heal_off"
+msgid "Turn Autoheal off"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/auto_heal_on"
+msgid "Turn Autoheal on"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/bravo_lc"
+msgid "Bravo Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/cancel"
+msgid "cancel"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/charlie_lc"
+msgid "Charlie Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/civi_kill_1"
+msgid "Reports say Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/civi_kill_2"
+msgid "Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/clearzone2"
+msgid "Before you take command of the tanks, move the infantry forward to recce the factory."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/comdfail"
+msgid "Stand Down, You have lost too many troops. Captain Spares is here to take over."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/contact"
+msgid "Contact!, Contact!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/d6_rc"
+msgid "All Call Signs, Radio Check"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/date"
+msgid "1968"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/day option"
+msgid "Daylight option"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/dayattack"
+msgid "."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/ffchopper"
+msgid "A chopper has been assigned under your command. This will help transport friendly dead away from the battlefield."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/gametime"
+msgid "Time left to complete task..."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/godmode"
+msgid "GOD MODE ON"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/inf-reinf"
+msgid "Infantry Squad"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia"
+msgid "A soldier has been Killed in Action."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia2"
+msgid "We have 2x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia3"
+msgid "We have 3x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia4"
+msgid "We have 4x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia5-6"
+msgid "We have bodies that need to return to base."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia7"
+msgid "We have too many KIA in the field."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/kia9"
+msgid "The troops wont accept any further losses.  "
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/loosing_toomany"
+msgid "You are loosing too many troops!!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/mandown"
+msgid "Man down, man down!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/medchopper"
+msgid "Move dead to Med Chopper for replacements"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/mission1"
+msgid "VC and NVA have attacked major cities across Vietnam. Enemy are causing havoc in Saigon and have captured key points around the city. Recapture these including the U.S Embassy"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/mission1b"
+msgid "Reports say VC have stolen some US equipment including tanks. Mission Clear area up to the Ben Nghe Channel."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/name"
+msgid "Saigon Part 2"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/name_big"
+msgid "Saigon Part 2"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/no_comd"
+msgid "No commanders are left on the battlefield."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/place"
+msgid "South Vietnam"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/plhq"
+msgid "2PL HQ"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/story"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/task1"
+msgid "Secure ARVN Barracks"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/task2"
+msgid "Secure the Saigon Port office."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/task3"
+msgid "Secure the U.S Embassy"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/task4"
+msgid "Destroy the 3 stolen US tanks."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/04_hue_city_part2/too_long"
+msgid "Time left to complete mission."
+msgstr ""

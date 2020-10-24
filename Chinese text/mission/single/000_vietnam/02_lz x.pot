@@ -1,0 +1,2941 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Call to Arms Editor (02_lz x)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "mission/single/000_vietnam/02_lz x/alpha_lc"
+msgid "Alpha Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/angles 3m"
+msgid "We have Jets flying North to South ready to provide Air Support."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/apc_pl"
+msgid "APCs ETA..."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/auto_heal_off"
+msgid "Turn Autoheal off"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/auto_heal_on"
+msgid "Turn Autoheal on"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/bravo_lc"
+msgid "Bravo Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/cancel"
+msgid "cancel"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/changecomd"
+msgid "Secure 1 Platoon, you're going to switch command to 2 Platoon when they land"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/charlie_lc"
+msgid "Charlie Loud and Clear"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/civi_kill_1"
+msgid "Reports say Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/civi_kill_2"
+msgid "Civilians have been killed"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/comdfail"
+msgid "Stand Down, You have lost too many troops. Captain Spares is here to take over."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/contact"
+msgid "Contact!, Contact!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/d6_rc"
+msgid "All Call Signs, Radio Check"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/date"
+msgid "1969"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/firemission"
+msgid "Request Fire Mission"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/godmode"
+msgid "GOD MODE ON"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52"
+msgid "gr52"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520"
+msgid "gr520"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52077"
+msgid "gr52077"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520770"
+msgid "gr520770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520771"
+msgid "gr520771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520772"
+msgid "gr520772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520773"
+msgid "gr520773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520774"
+msgid "gr520774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520775"
+msgid "gr520775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520776"
+msgid "gr520776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520777"
+msgid "gr520777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520778"
+msgid "gr520778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520779"
+msgid "gr520779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52078"
+msgid "gr52078"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520780"
+msgid "gr520780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520781"
+msgid "gr520781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520782"
+msgid "gr520782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520783"
+msgid "gr520783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520784"
+msgid "gr520784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520785"
+msgid "gr520785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520786"
+msgid "gr520786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520787"
+msgid "gr520787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520788"
+msgid "gr520788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520789"
+msgid "gr520789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52079"
+msgid "gr52079"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520790"
+msgid "gr520790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520791"
+msgid "gr520791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520792"
+msgid "gr520792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520793"
+msgid "gr520793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520794"
+msgid "gr520794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520795"
+msgid "gr520795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520796"
+msgid "gr520796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520797"
+msgid "gr520797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520798"
+msgid "gr520798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr520799"
+msgid "gr520799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521"
+msgid "gr521"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52177"
+msgid "gr52177"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521770"
+msgid "gr521770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521771"
+msgid "gr521771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521772"
+msgid "gr521772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521773"
+msgid "gr521773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521774"
+msgid "gr521774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521775"
+msgid "gr521775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521776"
+msgid "gr521776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521777"
+msgid "gr521777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521778"
+msgid "gr521778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521779"
+msgid "gr521779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52178"
+msgid "gr52178"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521780"
+msgid "gr521780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521781"
+msgid "gr521781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521782"
+msgid "gr521782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521783"
+msgid "gr521783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521784"
+msgid "gr521784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521785"
+msgid "gr521785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521786"
+msgid "gr521786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521787"
+msgid "gr521787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521788"
+msgid "gr521788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521789"
+msgid "gr521789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52179"
+msgid "gr52179"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521790"
+msgid "gr521790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521791"
+msgid "gr521791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521792"
+msgid "gr521792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521793"
+msgid "gr521793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521794"
+msgid "gr521794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521795"
+msgid "gr521795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521796"
+msgid "gr521796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521797"
+msgid "gr521797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521798"
+msgid "gr521798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr521799"
+msgid "gr521799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522"
+msgid "gr522"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52277"
+msgid "gr52277"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522770"
+msgid "gr522770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522771"
+msgid "gr522771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522772"
+msgid "gr522772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522773"
+msgid "gr522773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522774"
+msgid "gr522774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522775"
+msgid "gr522775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522776"
+msgid "gr522776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522777"
+msgid "gr522777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522778"
+msgid "gr522778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522779"
+msgid "gr522779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52278"
+msgid "gr52278"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522780"
+msgid "gr522780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522781"
+msgid "gr522781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522782"
+msgid "gr522782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522783"
+msgid "gr522783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522784"
+msgid "gr522784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522785"
+msgid "gr522785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522786"
+msgid "gr522786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522787"
+msgid "gr522787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522788"
+msgid "gr522788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522789"
+msgid "gr522789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52279"
+msgid "gr52279"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522790"
+msgid "gr522790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522791"
+msgid "gr522791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522792"
+msgid "gr522792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522793"
+msgid "gr522793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522794"
+msgid "gr522794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522795"
+msgid "gr522795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522796"
+msgid "gr522796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522797"
+msgid "gr522797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522798"
+msgid "gr522798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr522799"
+msgid "gr522799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523"
+msgid "gr523"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52377"
+msgid "gr52377"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523770"
+msgid "gr523770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523771"
+msgid "gr523771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523772"
+msgid "gr523772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523773"
+msgid "gr523773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523774"
+msgid "gr523774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523775"
+msgid "gr523775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523776"
+msgid "gr523776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523777"
+msgid "gr523777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523778"
+msgid "gr523778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523779"
+msgid "gr523779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52378"
+msgid "gr52378"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523780"
+msgid "gr523780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523781"
+msgid "gr523781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523782"
+msgid "gr523782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523783"
+msgid "gr523783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523784"
+msgid "gr523784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523785"
+msgid "gr523785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523786"
+msgid "gr523786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523787"
+msgid "gr523787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523788"
+msgid "gr523788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523789"
+msgid "gr523789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52379"
+msgid "gr52379"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523790"
+msgid "gr523790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523791"
+msgid "gr523791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523792"
+msgid "gr523792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523793"
+msgid "gr523793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523794"
+msgid "gr523794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523795"
+msgid "gr523795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523796"
+msgid "gr523796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523797"
+msgid "gr523797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523798"
+msgid "gr523798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr523799"
+msgid "gr523799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524"
+msgid "gr524"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52477"
+msgid "gr52477"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524770"
+msgid "gr524770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524771"
+msgid "gr524771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524772"
+msgid "gr524772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524773"
+msgid "gr524773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524774"
+msgid "gr524774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524775"
+msgid "gr524775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524776"
+msgid "gr524776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524777"
+msgid "gr524777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524778"
+msgid "gr524778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524779"
+msgid "gr524779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52478"
+msgid "gr52478"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524780"
+msgid "gr524780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524781"
+msgid "gr524781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524782"
+msgid "gr524782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524783"
+msgid "gr524783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524784"
+msgid "gr524784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524785"
+msgid "gr524785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524786"
+msgid "gr524786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524787"
+msgid "gr524787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524788"
+msgid "gr524788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524789"
+msgid "gr524789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52479"
+msgid "gr52479"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524790"
+msgid "gr524790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524791"
+msgid "gr524791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524792"
+msgid "gr524792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524793"
+msgid "gr524793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524794"
+msgid "gr524794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524795"
+msgid "gr524795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524796"
+msgid "gr524796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524797"
+msgid "gr524797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524798"
+msgid "gr524798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr524799"
+msgid "gr524799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525"
+msgid "gr525"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52577"
+msgid "gr52577"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525770"
+msgid "gr525770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525771"
+msgid "gr525771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525772"
+msgid "gr525772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525773"
+msgid "gr525773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525774"
+msgid "gr525774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525775"
+msgid "gr525775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525776"
+msgid "gr525776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525777"
+msgid "gr525777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525778"
+msgid "gr525778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525779"
+msgid "gr525779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52578"
+msgid "gr52578"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525780"
+msgid "gr525780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525781"
+msgid "gr525781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525782"
+msgid "gr525782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525783"
+msgid "gr525783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525784"
+msgid "gr525784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525785"
+msgid "gr525785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525786"
+msgid "gr525786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525787"
+msgid "gr525787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525788"
+msgid "gr525788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525789"
+msgid "gr525789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52579"
+msgid "gr52579"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525790"
+msgid "gr525790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525791"
+msgid "gr525791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525792"
+msgid "gr525792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525793"
+msgid "gr525793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525794"
+msgid "gr525794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525795"
+msgid "gr525795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525796"
+msgid "gr525796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525797"
+msgid "gr525797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525798"
+msgid "gr525798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr525799"
+msgid "gr525799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526"
+msgid "gr526"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52677"
+msgid "gr52677"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526770"
+msgid "gr526770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526771"
+msgid "gr526771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526772"
+msgid "gr526772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526773"
+msgid "gr526773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526774"
+msgid "gr526774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526775"
+msgid "gr526775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526776"
+msgid "gr526776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526777"
+msgid "gr526777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526778"
+msgid "gr526778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526779"
+msgid "gr526779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52678"
+msgid "gr52678"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526780"
+msgid "gr526780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526781"
+msgid "gr526781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526782"
+msgid "gr526782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526783"
+msgid "gr526783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526784"
+msgid "gr526784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526785"
+msgid "gr526785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526786"
+msgid "gr526786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526787"
+msgid "gr526787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526788"
+msgid "gr526788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526789"
+msgid "gr526789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52679"
+msgid "gr52679"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526790"
+msgid "gr526790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526791"
+msgid "gr526791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526792"
+msgid "gr526792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526793"
+msgid "gr526793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526794"
+msgid "gr526794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526795"
+msgid "gr526795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526796"
+msgid "gr526796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526797"
+msgid "gr526797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526798"
+msgid "gr526798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr526799"
+msgid "gr526799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527"
+msgid "gr527"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52777"
+msgid "gr52777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527770"
+msgid "gr527770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527771"
+msgid "gr527771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527772"
+msgid "gr527772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527773"
+msgid "gr527773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527774"
+msgid "gr527774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527775"
+msgid "gr527775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527776"
+msgid "gr527776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527777"
+msgid "gr527777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527778"
+msgid "gr527778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527779"
+msgid "gr527779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52778"
+msgid "gr52778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527780"
+msgid "gr527780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527781"
+msgid "gr527781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527782"
+msgid "gr527782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527783"
+msgid "gr527783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527784"
+msgid "gr527784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527785"
+msgid "gr527785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527786"
+msgid "gr527786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527787"
+msgid "gr527787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527788"
+msgid "gr527788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527789"
+msgid "gr527789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52779"
+msgid "gr52779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527790"
+msgid "gr527790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527791"
+msgid "gr527791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527792"
+msgid "gr527792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527793"
+msgid "gr527793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527794"
+msgid "gr527794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527795"
+msgid "gr527795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527796"
+msgid "gr527796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527797"
+msgid "gr527797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527798"
+msgid "gr527798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr527799"
+msgid "gr527799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528"
+msgid "gr528"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52877"
+msgid "gr52877"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528770"
+msgid "gr528770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528771"
+msgid "gr528771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528772"
+msgid "gr528772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528773"
+msgid "gr528773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528774"
+msgid "gr528774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528775"
+msgid "gr528775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528776"
+msgid "gr528776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528777"
+msgid "gr528777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528778"
+msgid "gr528778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528779"
+msgid "gr528779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52878"
+msgid "gr52878"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528780"
+msgid "gr528780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528781"
+msgid "gr528781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528782"
+msgid "gr528782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528783"
+msgid "gr528783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528784"
+msgid "gr528784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528785"
+msgid "gr528785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528786"
+msgid "gr528786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528787"
+msgid "gr528787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528788"
+msgid "gr528788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528789"
+msgid "gr528789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52879"
+msgid "gr52879"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528790"
+msgid "gr528790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528791"
+msgid "gr528791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528792"
+msgid "gr528792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528793"
+msgid "gr528793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528794"
+msgid "gr528794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528795"
+msgid "gr528795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528796"
+msgid "gr528796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528797"
+msgid "gr528797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528798"
+msgid "gr528798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr528799"
+msgid "gr528799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529"
+msgid "gr529"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52977"
+msgid "gr52977"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529770"
+msgid "gr529770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529771"
+msgid "gr529771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529772"
+msgid "gr529772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529773"
+msgid "gr529773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529774"
+msgid "gr529774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529775"
+msgid "gr529775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529776"
+msgid "gr529776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529777"
+msgid "gr529777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529778"
+msgid "gr529778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529779"
+msgid "gr529779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52978"
+msgid "gr52978"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529780"
+msgid "gr529780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529781"
+msgid "gr529781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529782"
+msgid "gr529782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529783"
+msgid "gr529783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529784"
+msgid "gr529784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529785"
+msgid "gr529785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529786"
+msgid "gr529786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529787"
+msgid "gr529787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529788"
+msgid "gr529788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529789"
+msgid "gr529789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr52979"
+msgid "gr52979"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529790"
+msgid "gr529790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529791"
+msgid "gr529791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529792"
+msgid "gr529792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529793"
+msgid "gr529793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529794"
+msgid "gr529794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529795"
+msgid "gr529795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529796"
+msgid "gr529796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529797"
+msgid "gr529797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529798"
+msgid "gr529798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr529799"
+msgid "gr529799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53"
+msgid "gr53"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530"
+msgid "gr530"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53077"
+msgid "gr53077"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530770"
+msgid "gr530770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530771"
+msgid "gr530771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530772"
+msgid "gr530772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530773"
+msgid "gr530773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530774"
+msgid "gr530774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530775"
+msgid "gr530775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530776"
+msgid "gr530776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530777"
+msgid "gr530777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530778"
+msgid "gr530778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530779"
+msgid "gr530779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53078"
+msgid "gr53078"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530780"
+msgid "gr530780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530781"
+msgid "gr530781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530782"
+msgid "gr530782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530783"
+msgid "gr530783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530784"
+msgid "gr530784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530785"
+msgid "gr530785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530786"
+msgid "gr530786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530787"
+msgid "gr530787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530788"
+msgid "gr530788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530789"
+msgid "gr530789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53079"
+msgid "gr53079"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530790"
+msgid "gr530790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530791"
+msgid "gr530791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530792"
+msgid "gr530792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530793"
+msgid "gr530793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530794"
+msgid "gr530794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530795"
+msgid "gr530795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530796"
+msgid "gr530796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530797"
+msgid "gr530797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530798"
+msgid "gr530798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr530799"
+msgid "gr530799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531"
+msgid "gr531"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53177"
+msgid "gr53177"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531770"
+msgid "gr531770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531771"
+msgid "gr531771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531772"
+msgid "gr531772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531773"
+msgid "gr531773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531774"
+msgid "gr531774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531775"
+msgid "gr531775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531776"
+msgid "gr531776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531777"
+msgid "gr531777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531778"
+msgid "gr531778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531779"
+msgid "gr531779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53178"
+msgid "gr53178"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531780"
+msgid "gr531780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531781"
+msgid "gr531781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531782"
+msgid "gr531782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531783"
+msgid "gr531783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531784"
+msgid "gr531784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531785"
+msgid "gr531785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531786"
+msgid "gr531786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531787"
+msgid "gr531787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531788"
+msgid "gr531788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531789"
+msgid "gr531789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53179"
+msgid "gr53179"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531790"
+msgid "gr531790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531791"
+msgid "gr531791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531792"
+msgid "gr531792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531793"
+msgid "gr531793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531794"
+msgid "gr531794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531795"
+msgid "gr531795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531796"
+msgid "gr531796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531797"
+msgid "gr531797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531798"
+msgid "gr531798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr531799"
+msgid "gr531799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532"
+msgid "gr532"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53277"
+msgid "gr53277"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532770"
+msgid "gr532770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532771"
+msgid "gr532771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532772"
+msgid "gr532772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532773"
+msgid "gr532773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532774"
+msgid "gr532774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532775"
+msgid "gr532775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532776"
+msgid "gr532776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532777"
+msgid "gr532777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532778"
+msgid "gr532778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532779"
+msgid "gr532779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53278"
+msgid "gr53278"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532780"
+msgid "gr532780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532781"
+msgid "gr532781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532782"
+msgid "gr532782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532783"
+msgid "gr532783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532784"
+msgid "gr532784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532785"
+msgid "gr532785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532786"
+msgid "gr532786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532787"
+msgid "gr532787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532788"
+msgid "gr532788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532789"
+msgid "gr532789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53279"
+msgid "gr53279"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532790"
+msgid "gr532790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532791"
+msgid "gr532791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532792"
+msgid "gr532792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532793"
+msgid "gr532793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532794"
+msgid "gr532794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532795"
+msgid "gr532795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532796"
+msgid "gr532796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532797"
+msgid "gr532797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532798"
+msgid "gr532798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr532799"
+msgid "gr532799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533"
+msgid "gr533"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53377"
+msgid "gr53377"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533770"
+msgid "gr533770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533771"
+msgid "gr533771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533772"
+msgid "gr533772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533773"
+msgid "gr533773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533774"
+msgid "gr533774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533775"
+msgid "gr533775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533776"
+msgid "gr533776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533777"
+msgid "gr533777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533778"
+msgid "gr533778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533779"
+msgid "gr533779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53378"
+msgid "gr53378"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533780"
+msgid "gr533780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533781"
+msgid "gr533781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533782"
+msgid "gr533782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533783"
+msgid "gr533783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533784"
+msgid "gr533784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533785"
+msgid "gr533785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533786"
+msgid "gr533786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533787"
+msgid "gr533787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533788"
+msgid "gr533788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533789"
+msgid "gr533789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53379"
+msgid "gr53379"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533790"
+msgid "gr533790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533791"
+msgid "gr533791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533792"
+msgid "gr533792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533793"
+msgid "gr533793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533794"
+msgid "gr533794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533795"
+msgid "gr533795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533796"
+msgid "gr533796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533797"
+msgid "gr533797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533798"
+msgid "gr533798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr533799"
+msgid "gr533799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534"
+msgid "gr534"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53477"
+msgid "gr53477"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534770"
+msgid "gr534770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534771"
+msgid "gr534771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534772"
+msgid "gr534772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534773"
+msgid "gr534773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534774"
+msgid "gr534774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534775"
+msgid "gr534775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534776"
+msgid "gr534776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534777"
+msgid "gr534777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534778"
+msgid "gr534778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534779"
+msgid "gr534779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53478"
+msgid "gr53478"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534780"
+msgid "gr534780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534781"
+msgid "gr534781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534782"
+msgid "gr534782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534783"
+msgid "gr534783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534784"
+msgid "gr534784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534785"
+msgid "gr534785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534786"
+msgid "gr534786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534787"
+msgid "gr534787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534788"
+msgid "gr534788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534789"
+msgid "gr534789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53479"
+msgid "gr53479"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534790"
+msgid "gr534790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534791"
+msgid "gr534791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534792"
+msgid "gr534792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534793"
+msgid "gr534793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534794"
+msgid "gr534794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534795"
+msgid "gr534795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534796"
+msgid "gr534796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534797"
+msgid "gr534797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534798"
+msgid "gr534798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr534799"
+msgid "gr534799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535"
+msgid "gr535"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53577"
+msgid "gr53577"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535770"
+msgid "gr535770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535771"
+msgid "gr535771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535772"
+msgid "gr535772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535773"
+msgid "gr535773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535774"
+msgid "gr535774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535775"
+msgid "gr535775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535776"
+msgid "gr535776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535777"
+msgid "gr535777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535778"
+msgid "gr535778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535779"
+msgid "gr535779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53578"
+msgid "gr53578"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535780"
+msgid "gr535780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535781"
+msgid "gr535781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535782"
+msgid "gr535782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535783"
+msgid "gr535783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535784"
+msgid "gr535784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535785"
+msgid "gr535785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535786"
+msgid "gr535786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535787"
+msgid "gr535787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535788"
+msgid "gr535788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535789"
+msgid "gr535789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53579"
+msgid "gr53579"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535790"
+msgid "gr535790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535791"
+msgid "gr535791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535792"
+msgid "gr535792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535793"
+msgid "gr535793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535794"
+msgid "gr535794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535795"
+msgid "gr535795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535796"
+msgid "gr535796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535797"
+msgid "gr535797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535798"
+msgid "gr535798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr535799"
+msgid "gr535799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536"
+msgid "gr536"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53677"
+msgid "gr53677"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536770"
+msgid "gr536770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536771"
+msgid "gr536771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536772"
+msgid "gr536772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536773"
+msgid "gr536773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536774"
+msgid "gr536774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536775"
+msgid "gr536775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536776"
+msgid "gr536776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536777"
+msgid "gr536777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536778"
+msgid "gr536778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536779"
+msgid "gr536779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53678"
+msgid "gr53678"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536780"
+msgid "gr536780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536781"
+msgid "gr536781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536782"
+msgid "gr536782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536783"
+msgid "gr536783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536784"
+msgid "gr536784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536785"
+msgid "gr536785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536786"
+msgid "gr536786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536787"
+msgid "gr536787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536788"
+msgid "gr536788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536789"
+msgid "gr536789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53679"
+msgid "gr53679"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536790"
+msgid "gr536790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536791"
+msgid "gr536791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536792"
+msgid "gr536792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536793"
+msgid "gr536793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536794"
+msgid "gr536794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536795"
+msgid "gr536795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536796"
+msgid "gr536796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536797"
+msgid "gr536797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536798"
+msgid "gr536798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr536799"
+msgid "gr536799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537"
+msgid "gr537"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53777"
+msgid "gr53777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537770"
+msgid "gr537770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537771"
+msgid "gr537771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537772"
+msgid "gr537772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537773"
+msgid "gr537773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537774"
+msgid "gr537774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537775"
+msgid "gr537775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537776"
+msgid "gr537776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537777"
+msgid "gr537777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537778"
+msgid "gr537778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537779"
+msgid "gr537779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53778"
+msgid "gr53778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537780"
+msgid "gr537780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537781"
+msgid "gr537781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537782"
+msgid "gr537782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537783"
+msgid "gr537783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537784"
+msgid "gr537784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537785"
+msgid "gr537785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537786"
+msgid "gr537786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537787"
+msgid "gr537787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537788"
+msgid "gr537788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537789"
+msgid "gr537789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53779"
+msgid "gr53779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537790"
+msgid "gr537790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537791"
+msgid "gr537791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537792"
+msgid "gr537792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537793"
+msgid "gr537793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537794"
+msgid "gr537794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537795"
+msgid "gr537795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537796"
+msgid "gr537796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537797"
+msgid "gr537797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537798"
+msgid "gr537798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr537799"
+msgid "gr537799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538"
+msgid "gr538"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53877"
+msgid "gr53877"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538770"
+msgid "gr538770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538771"
+msgid "gr538771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538772"
+msgid "gr538772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538773"
+msgid "gr538773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538774"
+msgid "gr538774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538775"
+msgid "gr538775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538776"
+msgid "gr538776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538777"
+msgid "gr538777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538778"
+msgid "gr538778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538779"
+msgid "gr538779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53878"
+msgid "gr53878"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538780"
+msgid "gr538780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538781"
+msgid "gr538781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538782"
+msgid "gr538782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538783"
+msgid "gr538783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538784"
+msgid "gr538784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538785"
+msgid "gr538785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538786"
+msgid "gr538786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538787"
+msgid "gr538787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538788"
+msgid "gr538788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538789"
+msgid "gr538789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53879"
+msgid "gr53879"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538790"
+msgid "gr538790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538791"
+msgid "gr538791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538792"
+msgid "gr538792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538793"
+msgid "gr538793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538794"
+msgid "gr538794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538795"
+msgid "gr538795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538796"
+msgid "gr538796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538797"
+msgid "gr538797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538798"
+msgid "gr538798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr538799"
+msgid "gr538799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539"
+msgid "gr539"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53977"
+msgid "gr53977"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539770"
+msgid "gr539770"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539771"
+msgid "gr539771"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539772"
+msgid "gr539772"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539773"
+msgid "gr539773"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539774"
+msgid "gr539774"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539775"
+msgid "gr539775"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539776"
+msgid "gr539776"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539777"
+msgid "gr539777"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539778"
+msgid "gr539778"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539779"
+msgid "gr539779"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53978"
+msgid "gr53978"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539780"
+msgid "gr539780"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539781"
+msgid "gr539781"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539782"
+msgid "gr539782"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539783"
+msgid "gr539783"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539784"
+msgid "gr539784"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539785"
+msgid "gr539785"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539786"
+msgid "gr539786"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539787"
+msgid "gr539787"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539788"
+msgid "gr539788"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539789"
+msgid "gr539789"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr53979"
+msgid "gr53979"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539790"
+msgid "gr539790"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539791"
+msgid "gr539791"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539792"
+msgid "gr539792"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539793"
+msgid "gr539793"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539794"
+msgid "gr539794"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539795"
+msgid "gr539795"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539796"
+msgid "gr539796"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539797"
+msgid "gr539797"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539798"
+msgid "gr539798"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/gr539799"
+msgid "gr539799"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/inf-reinf"
+msgid "Rifle Squad"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia"
+msgid "A soldier has been Killed in Action."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia2"
+msgid "We have 2x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia3"
+msgid "We have 3x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia4"
+msgid "We have 4x KIA"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia5-6"
+msgid "We have bodies that need to return to base."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia7"
+msgid "We have too many KIA in the field."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/kia9"
+msgid "The troops wont accept any further losses.  "
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/loosing_toomany"
+msgid "You are loosing too many troops!!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/lz_lost"
+msgid "The Landing Zone has been lost"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/mandown"
+msgid "Man down, man down!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/medchopper"
+msgid "Move dead to Med Chopper for replacements"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/name"
+msgid "LZ X-Ray"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/name_big"
+msgid "Landing Zone X-Ray"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/next_pl"
+msgid "Next Platoon ETA..."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/no_comd"
+msgid "There are no Commanders to take control."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/noflyzone"
+msgid "This is Humming Bird, Losing light fast. Helos will return to base at sundown."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/nva spotted"
+msgid "NVA spotted, start digging in!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/nva_atk"
+msgid "Large NVA force spotted, ETA..."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/op_site"
+msgid "Set up an OP (Observation Post) to view enemy in area."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/outro_completed"
+msgid "Mission accomplished!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/outro_failed"
+msgid "Mission failure!"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/outro_start"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/place"
+msgid "Vietnam High Country"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/plhq"
+msgid "Platoon HQ"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/story"
+msgid ""
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task3-1plcomd "
+msgid "1 Platoon is back under your command."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task3-brief"
+msgid "Destroy all the AA Guns."
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task_1"
+msgid "Sweep the immediate area & Secure the LZ"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task_2"
+msgid "Set up Defences"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task_3"
+msgid "Defend the Landing Zone"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/task_4"
+msgid "Rescue 3 Platoon"
+msgstr ""
+
+msgctxt "mission/single/000_vietnam/02_lz x/too_long"
+msgid "Time left to complete mission."
+msgstr ""
