@@ -13,59 +13,59 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgctxt "mission/single/000_vietnam/02_lz x/alpha_lc"
-msgid "Alpha Loud and Clear"
+msgid "A队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/angles 3m"
-msgid "We have Jets flying North to South ready to provide Air Support."
+msgid "我方战机已准备好从北至南方向提供空中支援."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/apc_pl"
-msgid "APCs ETA..."
+msgid "运兵装甲车预计抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/auto_heal_off"
-msgid "Turn Autoheal off"
+msgid "自动悬停 关"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/auto_heal_on"
-msgid "Turn Autoheal on"
+msgid "自动悬停 开"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/bravo_lc"
-msgid "Bravo Loud and Clear"
+msgid "B队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/cancel"
-msgid "cancel"
+msgid "取消"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/changecomd"
-msgid "Secure 1 Platoon, you're going to switch command to 2 Platoon when they land"
+msgid "警卫1排，2排降落后将会接管你排部指挥权"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/charlie_lc"
-msgid "Charlie Loud and Clear"
+msgid "C队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/civi_kill_1"
-msgid "Reports say Civilians have been killed"
+msgid "报告显示平民已阵亡"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/civi_kill_2"
-msgid "Civilians have been killed"
+msgid "平民已阵亡"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/comdfail"
-msgid "Stand Down, You have lost too many troops. Captain Spares is here to take over."
+msgid "停止行动, 经损失太多兵力. 斯派尔上尉会接管你的部队."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/contact"
-msgid "Contact!, Contact!"
+msgid "接敌!, 接敌!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/d6_rc"
-msgid "All Call Signs, Radio Check"
+msgid "全单位注意, 无线电测试"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/date"
@@ -73,11 +73,11 @@ msgid "1969"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/firemission"
-msgid "Request Fire Mission"
+msgid "请求火力支援"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/godmode"
-msgid "GOD MODE ON"
+msgid "上 帝 模 式"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/gr52"
