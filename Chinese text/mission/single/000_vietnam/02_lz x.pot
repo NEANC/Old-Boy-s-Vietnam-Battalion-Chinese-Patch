@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgid "A队 通讯正常"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/angles 3m"
-msgid "我方战机已准备好从北至南方向提供空中支援."
+msgid "我方战机已准备好从北至南方向提供空中支援。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/apc_pl"
@@ -57,15 +57,15 @@ msgid "平民已阵亡"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/comdfail"
-msgid "停止行动, 经损失太多兵力. 斯派尔上尉会接管你的部队."
+msgid "停止行动，已经损失太多兵力。斯派尔上尉会接管你的部队。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/contact"
-msgid "接敌!, 接敌!"
+msgid "接敌！接敌！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/d6_rc"
-msgid "全单位注意, 无线电测试"
+msgid "全单位注意，无线电测试"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/date"
@@ -2813,35 +2813,35 @@ msgid "步兵班组"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia"
-msgid "一位士兵已阵亡."
+msgid "一位士兵已阵亡。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia2"
-msgid "二位士兵已阵亡."
+msgid "二位士兵已阵亡。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia3"
-msgid "三位士兵已阵亡."
+msgid "三位士兵已阵亡。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia4"
-msgid "四位士兵已阵亡."
+msgid "四位士兵已阵亡。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia5-6"
-msgid "我们有士兵残骸需要运回基地."
+msgid "我们有士兵残骸需要运回基地。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia7"
-msgid "我们在战场上的损失过于惨重."
+msgid "我们在战场上的损失过于惨重。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia9"
-msgid "军部不再接受任何进一步的伤亡.  "
+msgid "军部不再接受任何进一步的伤亡。  "
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/loosing_toomany"
-msgid "你已损失大量兵力!!"
+msgid "你已损失大量兵力！！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/lz_lost"
@@ -2849,7 +2849,7 @@ msgid "降落区已失守"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/mandown"
-msgid "有人倒了, 有人倒了!"
+msgid "有人倒下，有人倒下！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/medchopper"
@@ -2869,15 +2869,15 @@ msgid "下一连队抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/no_comd"
-msgid "战场上已经没有战地指挥官."
+msgid "战场上已经没有战地指挥官。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/noflyzone"
-msgid "这里是蜂鸟, 燃料即将耗尽. 将在日落时分返回基地."
+msgid "这里是蜂鸟，燃料即将耗尽。将在日落时分返回基地。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/nva spotted"
-msgid "发现北越军, 迅速开始建造防御工事!"
+msgid "发现北越军，迅速开始建造防御工事！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/nva_atk"
@@ -2885,15 +2885,15 @@ msgid "北越军大部队抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/op_site"
-msgid "建立观察哨以观察这片区域."
+msgid "建立观察哨以观察这片区域。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_completed"
-msgid "任务完成!"
+msgid "任务完成！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_failed"
-msgid "任务失败!"
+msgid "任务失败！"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_start"
@@ -2913,11 +2913,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task3-1plcomd "
-msgid "1排已交回于你指挥."
+msgid "1排已交回于你指挥。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task3-brief"
-msgid "摧毁所有防空机枪."
+msgid "摧毁所有防空机枪。"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task_1"
@@ -2937,5 +2937,5 @@ msgid "营救三排"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/too_long"
-msgid "完成任务时限."
+msgid "完成任务时限："
 msgstr ""
