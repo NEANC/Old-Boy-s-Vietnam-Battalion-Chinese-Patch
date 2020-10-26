@@ -2809,91 +2809,91 @@ msgid "gr539799"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/inf-reinf"
-msgid "Rifle Squad"
+msgid "步兵班组"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia"
-msgid "A soldier has been Killed in Action."
+msgid "一位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia2"
-msgid "We have 2x KIA"
+msgid "二位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia3"
-msgid "We have 3x KIA"
+msgid "三位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia4"
-msgid "We have 4x KIA"
+msgid "四位士兵已阵亡."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia5-6"
-msgid "We have bodies that need to return to base."
+msgid "我们有士兵残骸需要运回基地."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia7"
-msgid "We have too many KIA in the field."
+msgid "我们在战场上的损失过于惨重."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/kia9"
-msgid "The troops wont accept any further losses.  "
+msgid "军部不再接受任何进一步的伤亡.  "
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/loosing_toomany"
-msgid "You are loosing too many troops!!"
+msgid "你已损失大量兵力!!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/lz_lost"
-msgid "The Landing Zone has been lost"
+msgid "降落区已失守"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/mandown"
-msgid "Man down, man down!"
+msgid "有人倒了, 有人倒了!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/medchopper"
-msgid "Move dead to Med Chopper for replacements"
+msgid "把尸体搬运至医疗直升机以进行人员更换"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/name"
-msgid "LZ X-Ray"
+msgid "X光着陆区"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/name_big"
-msgid "Landing Zone X-Ray"
+msgid "X光着陆区"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/next_pl"
-msgid "Next Platoon ETA..."
+msgid "下一连队抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/no_comd"
-msgid "There are no Commanders to take control."
+msgid "战场上已经没有战地指挥官."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/noflyzone"
-msgid "This is Humming Bird, Losing light fast. Helos will return to base at sundown."
+msgid "这里是蜂鸟, 燃料即将耗尽. 将在日落时分返回基地."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/nva spotted"
-msgid "NVA spotted, start digging in!"
+msgid "发现北越军, 迅速开始建造防御工事!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/nva_atk"
-msgid "Large NVA force spotted, ETA..."
+msgid "北越军大部队抵达时间..."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/op_site"
-msgid "Set up an OP (Observation Post) to view enemy in area."
+msgid "建立观察哨以观察这片区域."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_completed"
-msgid "Mission accomplished!"
+msgid "任务完成!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_failed"
-msgid "Mission failure!"
+msgid "任务失败!"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/outro_start"
@@ -2901,11 +2901,11 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/place"
-msgid "Vietnam High Country"
+msgid "越南山区"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/plhq"
-msgid "Platoon HQ"
+msgid "排级指挥部"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/story"
@@ -2913,29 +2913,29 @@ msgid ""
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task3-1plcomd "
-msgid "1 Platoon is back under your command."
+msgid "1排已交回于你指挥."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task3-brief"
-msgid "Destroy all the AA Guns."
+msgid "摧毁所有防空机枪."
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task_1"
-msgid "Sweep the immediate area & Secure the LZ"
+msgid "清除附近区域并确保着陆区安全"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task_2"
-msgid "Set up Defences"
+msgid "建立防线"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task_3"
-msgid "Defend the Landing Zone"
+msgid "防守着陆区"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/task_4"
-msgid "Rescue 3 Platoon"
+msgid "营救三排"
 msgstr ""
 
 msgctxt "mission/single/000_vietnam/02_lz x/too_long"
-msgid "Time left to complete mission."
+msgid "完成任务时限."
 msgstr ""
